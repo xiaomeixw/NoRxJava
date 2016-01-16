@@ -2,7 +2,10 @@
 Thinking like a rxjava library creator,Why we need use RxJava...
 
 
-Every Resource about Rxjava:
+## Every Resource about Rxjava:
+
+[https://github.com/esoxjem/MovieGuide](https://github.com/esoxjem/MovieGuide):An Android app that showcases the MVP pattern and RxJava.
+
 
 http://www.jianshu.com/p/e79f306e12f1
 https://github.com/kaushikgopal/RxJava-Android-Samples
