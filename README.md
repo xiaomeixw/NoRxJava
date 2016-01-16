@@ -2,7 +2,7 @@
 Thinking like a rxjava library creator,Why we need use RxJava...
 
 
-Resuore about Rxjava:
+Resource about Rxjava:
 
 http://www.jianshu.com/p/e79f306e12f1
 https://github.com/kaushikgopal/RxJava-Android-Samples
