@@ -4,6 +4,10 @@ Thinking like a rxjava library creator,Why we need use RxJava...
 
 ## Everything about Rxjava:
 
+[RxJavaEssentials](https://www.packtpub.com/application-development/rxjava-essentials):Learn reactive programming to create awesome Android and Java apps.(translator[yuxingxin](http://yuxingxin.com/2016/01/08/RxJavaEssentials/),authorize[From .NET To RxJava](http://www.devtf.cn/?p=1221))
+
+[RxJava Essentials CN](https://www.gitbook.com/book/yuxingxin/rxjava-essentials-cn/) && [RxJavaEssentials.pdf](http://vdisk.weibo.com/s/CeH3i0tfvZMVq)
+
 [https://github.com/esoxjem/MovieGuide](https://github.com/esoxjem/MovieGuide):An Android app that showcases the MVP pattern and RxJava.
 
 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083):Introduce Rxjava To Chinese Android developer.
