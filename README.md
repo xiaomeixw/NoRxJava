@@ -1,8 +1,8 @@
-# NoRxJava
-Thinking like a rxjava library creator,Why we need use RxJava...
+# NoRxJava : Everything about Rxjava
+Thinking like a Rxjava library creator,Why we need use RxJava...I will tell you everything about Rxjava:RxJava Study Resources、Rxjava Usage and Interpretation of Rxjava source code...
 
 
-## Everything about Rxjava:
+## Part1 RxJava Study Resources:
 
 [RxJavaEssentials](https://www.packtpub.com/application-development/rxjava-essentials):Learn reactive programming to create awesome Android and Java apps.(translator[yuxingxin](http://yuxingxin.com/2016/01/08/RxJavaEssentials/),authorize[From .NET To RxJava](http://www.devtf.cn/?p=1221))
 
