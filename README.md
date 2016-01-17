@@ -198,6 +198,8 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 
 
 ### 1-3 Library
+1. **MovieGuide** An Android app that showcases the MVP pattern and RxJava.  
+[https://github.com/esoxjem/MovieGuide](https://github.com/esoxjem/MovieGuide)
 
 http://www.jianshu.com/p/e79f306e12f1
 https://github.com/kaushikgopal/RxJava-Android-Samples
