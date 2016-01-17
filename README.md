@@ -3,13 +3,13 @@ Thinking like a Rxjava library creator,Why we need use RxJava...I will tell you 
 
 ![](http://i.imgur.com/IeJeTuo.png)
 
-## Part1 RxJava Study Resources:
-
 When to find RxJava:
 
 - RxJava: [https://github.com/ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
 - RxAndroid: [https://github.com/ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - RxBinding: [https://github.com/JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding)
+
+## Part1 RxJava Study Resources:
 
 ### 1-1 Article
 
