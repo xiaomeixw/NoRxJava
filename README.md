@@ -310,7 +310,22 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/vert-x/mod-rxvertx](https://github.com/vert-x/mod-rxvertx)
 1. **rxfilewatcher** Convenient file watcher with an RxJava interface, based on JDK WatchService.  
 [https://github.com/helmbold/rxfilewatcher](https://github.com/helmbold/rxfilewatcher)
-
+1. **rxjava-webservice-example** simple comparison between Retrofit with & without RxJava.  
+[https://github.com/mutexkid/rxjava-webservice-example](https://github.com/mutexkid/rxjava-webservice-example)
+1. **RxAndroidEventsSample** BusEvents implementation base RxJava/RxAndroid.  
+[https://github.com/wangjiegulu/RxAndroidEventsSample](https://github.com/wangjiegulu/RxAndroidEventsSample)
+1. **RxJavaExamples** Several simple examples demonstrating how to use RxJava along with a few exercises to try.  
+[https://github.com/colintheshots/RxJavaExamples](https://github.com/colintheshots/RxJavaExamples)
+1. **rxmocks** Mocks/Assertions for RxJava testing.  
+[https://github.com/novoda/rxmocks](https://github.com/novoda/rxmocks)
+1. **reactive-http** RxJava HTTP Client for Android and Java application.  
+[https://github.com/lyft/reactive-http](https://github.com/lyft/reactive-http)
+1. **rxjava-http-tail** RxJava-based HTTP log following library.  
+[https://github.com/myfreeweb/rxjava-http-tail](https://github.com/myfreeweb/rxjava-http-tail)
+1. **ReactiveBeacons** Android library scanning BLE beacons nearby with RxJava.  
+[https://github.com/pwittchen/ReactiveBeacons](https://github.com/pwittchen/ReactiveBeacons)
+1. **RxFace** 用 RxJava, Retrofit, Okhttp 处理人脸识别的简单用例.  
+[https://github.com/MrFuFuFu/RxFace](https://github.com/MrFuFuFu/RxFace)
 
 
 
