@@ -204,6 +204,10 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/lzyzsd/Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
 1. **NoRxJava** Everything about Rxjava:Thinking like a Rxjava library creator,Why we need use RxJava.  
 [https://github.com/xiaomeixw/NoRxJava](https://github.com/xiaomeixw/NoRxJava)
+1. **RxAndroidLibs** A curated list of libraries to aid reactive development on Android.  
+[https://github.com/zsoltk/RxAndroidLibs](https://github.com/zsoltk/RxAndroidLibs)
+1. **RxDocs** Rx和RxJava文档中文翻译项目.  
+[https://github.com/mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs)
 1. **RxJava-Android-Samples** Learning RxJava for Android by example.  
 [https://github.com/kaushikgopal/RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
 1. **RxBinding** RxJava binding APIs for Android's UI widgets.  
@@ -222,6 +226,12 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/mcharmas/Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation)
 1. **ReactiveNetwork** Android library listening network connection state and change of the WiFi signal strength with RxJava Observables.  
 [https://github.com/pwittchen/ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork)
+1. **RxRecyclerView** Reactive RecyclerView Adapter.  
+[https://github.com/exallium/RxRecyclerView](https://github.com/exallium/RxRecyclerView)
+1. **RxFileObserver** Simple reactive API for Android's FileObserver class.  
+[https://github.com/phajduk/RxFileObserver](https://github.com/phajduk/RxFileObserver)
+1. **rxfilewatcher** Convenient file watcher with an RxJava interface, based on JDK WatchService.  
+[https://github.com/helmbold/rxfilewatcher](https://github.com/helmbold/rxfilewatcher)
 1. **RxLifecycle** Lifecycle handling APIs for Android apps using RxJava.  
 [https://github.com/trello/RxLifecycle](https://github.com/trello/RxLifecycle)
 1. **frodo** Android Library for Logging RxJava Observables and Subscribers.  
@@ -236,6 +246,12 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/spirosoik/Android-RxFirebase](https://github.com/spirosoik/Android-RxFirebase)
 1. **RxJavaSamples** 收集了RxJava常见的使用场景.  
 [https://github.com/THEONE10211024/RxJavaSamples](https://github.com/THEONE10211024/RxJavaSamples)
+1. **sqlbrite** A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.  
+[https://github.com/square/sqlbrite](https://github.com/square/sqlbrite)
+1. **storio** Beautiful API for SQLiteDatabase and ContentResolver.  
+[https://github.com/pushtorefresh/storio](https://github.com/pushtorefresh/storio)
+1. **RxBonjour** Reactive spice added to Android's network service discovery API.  
+[https://github.com/aurae/RxBonjour](https://github.com/aurae/RxBonjour)
 1. **rx-shared-preferences** RxJava SharedPreferences for Android, lightweight and extendable.  
 [https://github.com/henrytao-me/rx-shared-preferences](https://github.com/henrytao-me/rx-shared-preferences)
 1. **rxsnappy** RxSnappy is a thread safe rxjava wrapper for the great SnappyDB fast key-value database for Android.  
@@ -244,6 +260,8 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/cesarferreira/RxPaper](https://github.com/cesarferreira/RxPaper)
 1. **StackRX** Stackoverflow client utilizing RXJava and other libraries.  
 [https://github.com/Liffft/StackRX](https://github.com/Liffft/StackRX)
+1. **RxCache** Reactive caching library for Android and Java.  
+[https://github.com/VictorAlbertos/RxCache](https://github.com/VictorAlbertos/RxCache)
 1. **RxPermissions** Android runtime permissions powered by RxJava.  
 [https://github.com/tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions)
 1. **JianDanRxJava** 使用Rxjava重构煎蛋高仿.  
@@ -256,8 +274,16 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/JakeWharton/RxRelay](https://github.com/JakeWharton/RxRelay)
 1. **NBAPlus** A concise APP about NBA News and Event with RxJava and EventBus.  
 [https://github.com/SilenceDut/NBAPlus](https://github.com/SilenceDut/NBAPlus)
-1. **RxDocs** Rx和RxJava文档中文翻译项目.  
-[https://github.com/mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs)
+1. **wasp** Compact and easy to use, 'all-in-one' android network solution.  
+[https://github.com/orhanobut/wasp](https://github.com/orhanobut/wasp)
+1. **RxPeople** Observing people... wait what?  
+[https://github.com/cesarferreira/RxPeople](https://github.com/cesarferreira/RxPeople)
+1. **ReactiveSensors** Android library monitoring hardware sensors with RxJava Observables.  
+[https://github.com/pwittchen/ReactiveSensors](https://github.com/pwittchen/ReactiveSensors)
+1. **RxFingerprint** Android Fingerprint authentication and encryption APIs wrapped in RxJava.  
+[https://github.com/Mauin/RxFingerprint](https://github.com/Mauin/RxFingerprint)
+1. **RxGoogleMaps** Rx Wrapper For Android Google maps.  
+[https://github.com/sdoward/RxGoogleMaps](https://github.com/sdoward/RxGoogleMaps)
 1. **Mateyko** Lightweight image loader based on Retrofit and RxJava.  
 [https://github.com/Marchuck/Mateyko](https://github.com/Marchuck/Mateyko)
 1. **GWSRxBus** Seems to me that it might call for using some of the RXJava and RxAndroid Observables sugar to handle those cases and make the event bus more streamlined and handle more use cases.  
