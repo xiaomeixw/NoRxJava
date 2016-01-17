@@ -7,6 +7,7 @@ When to find RxJava:
 
 - RxJava: [https://github.com/ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
 - RxAndroid: [https://github.com/ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
+- Retrolambda: [https://github.com/orfjackal/retrolambda](https://github.com/orfjackal/retrolambda)
 - RxBinding: [https://github.com/JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding)
 - RxJavaFX: [https://github.com/ReactiveX/RxJavaFX](https://github.com/ReactiveX/RxJavaFX)
 - RxNetty: [https://github.com/ReactiveX/RxNetty](https://github.com/ReactiveX/RxNetty)
