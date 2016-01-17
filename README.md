@@ -429,6 +429,9 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/SpikeKing/TestDetailRxAndroid](https://github.com/SpikeKing/TestDetailRxAndroid)
 1. **RxSmartLock** Reactive extension for Google's Smart Lock for Passwords API.  
 [https://github.com/ShlMlkzdh/RxSmartLock](https://github.com/ShlMlkzdh/RxSmartLock)
-
+1. **RxFile** Rx methods to get a File and Image or Video thumbnails from a Document Provider on Android.  
+[https://github.com/pavlospt/RxFile](https://github.com/pavlospt/RxFile)
+1. **RxBluetooth** Android reactive bluetooth.  
+[https://github.com/IvBaranov/RxBluetooth](https://github.com/IvBaranov/RxBluetooth)
 
 
