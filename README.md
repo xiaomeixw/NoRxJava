@@ -202,6 +202,8 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/esoxjem/MovieGuide](https://github.com/esoxjem/MovieGuide)
 1. **Awesome-RxJava** RxJava resources.  
 [https://github.com/lzyzsd/Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
+1. **NoRxJava** Everything about Rxjava:Thinking like a Rxjava library creator,Why we need use RxJava.  
+[https://github.com/xiaomeixw/NoRxJava](https://github.com/xiaomeixw/NoRxJava)
 1. **RxJava-Android-Samples** Learning RxJava for Android by example.  
 [https://github.com/kaushikgopal/RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
 1. **RxBinding** RxJava binding APIs for Android's UI widgets.  
@@ -270,19 +272,44 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/SmartDengg/RxWeather](https://github.com/SmartDengg/RxWeather)
 1. **RengwuxianRxjava** 扔物线《给Android开发者的RxJava详解》文章中的例子.  
 [https://github.com/androidmalin/RengwuxianRxjava](https://github.com/androidmalin/RengwuxianRxjava)
-
-http://www.jianshu.com/p/e79f306e12f1
-https://github.com/kaushikgopal/RxJava-Android-Samples
-http://www.jianshu.com/p/b283b5b704e5
-https://github.com/dlew/rxjava-multiple-sources-sample
-https://github.com/marcoRS/rxjava-essentials/blob/master/app/src/main/java/com/packtpub/apps/rxjava_essentials/example1/Fi
-rstExampleFragment.java
-https://github.com/evant/rxloader
-https://github.com/AndroidKnife/RxBus
-https://github.com/ReactiveX/RxJavaAsyncUtil
-https://github.com/pwittchen/prefser
-https://github.com/ffgiraldez/rx-mvvm-android
-
+1. **rxjava-jdbc** Efficient execution and functional composition of database calls using jdbc and rx-java Observables. 
+[https://github.com/davidmoten/rxjava-jdbc](https://github.com/davidmoten/rxjava-jdbc)
+1. **RxJavaProGuardRules** ProGuard rules for RxJava shipped as AAR.  
+[https://github.com/artem-zinnatullin/RxJavaProGuardRules](https://github.com/artem-zinnatullin/RxJavaProGuardRules)
+1. **RxStarter** Showcase Project using RxJava and RxDAO pattern.  
+[https://github.com/digitalbuddha/RxStarter](https://github.com/digitalbuddha/RxStarter)
+1. **HelloRx** RxAndroid (RxJava) examples.  
+[https://github.com/GDG-Korea/HelloRx](https://github.com/GDG-Korea/HelloRx)
+1. **RxTuples** Simple tuples to use with RxJava.  
+[https://github.com/pakoito/RxTuples](https://github.com/pakoito/RxTuples)
+1. **learning-rxjava** Examples of using RxJava.  
+[https://github.com/meddle0x53/learning-rxjava](https://github.com/meddle0x53/learning-rxjava)
+1. **rxjava-koans** The Koans walk you along the path to Rx enlightenment in order to learn RxJava.  
+[https://github.com/mutexkid/rxjava-koans](https://github.com/mutexkid/rxjava-koans)
+1. **RxJava2-Java6** An automated backport of RxJava 2 to support Java 6.  
+[https://github.com/JakeWharton/RxJava2-Java6](https://github.com/JakeWharton/RxJava2-Java6)
+1. **daysuntil** Android app demonstrating Kotlin, RxJava, Realm and More.  
+[https://github.com/GavinThePacMan/daysuntil](https://github.com/GavinThePacMan/daysuntil)
+1. **rxjava-promises** Promises Implementation for JVM languages.  
+[https://github.com/darylteo/rxjava-promises](https://github.com/darylteo/rxjava-promises)
+1. **RxCamera** RxJava style API for android camera.  
+[https://github.com/ragnraok/RxCamera](https://github.com/ragnraok/RxCamera)
+1. **rain-or-shine** Sample Android application using RxJava.  
+[https://github.com/rosshambrick/rain-or-shine](https://github.com/rosshambrick/rain-or-shine)
+1. **ReactiveSensors** Android library monitoring hardware sensors with RxJava Observables.  
+[https://github.com/pwittchen/ReactiveSensors](https://github.com/pwittchen/ReactiveSensors)
+1. **rxjava-android-example** FRP sample implementation for Android using RxJava.  
+[https://github.com/andrewhr/rxjava-android-example](https://github.com/andrewhr/rxjava-android-example)
+1. **prefser** Wrapper for Android SharedPreferences with object serialization and RxJava Observables.  
+[https://github.com/pwittchen/prefser](https://github.com/pwittchen/prefser)
+1. **realm-rxjava-example** [DEPRECATED] Example of using Realm with RxJava on Android.  
+[https://github.com/kboyarshinov/realm-rxjava-example](https://github.com/kboyarshinov/realm-rxjava-example)
+1. **RxFlux** RxFlux is a small framework in order to follow Flux design pattern with RxJava functionalities.  
+[https://github.com/skimarxall/RxFlux](https://github.com/skimarxall/RxFlux)
+1. **mod-rxvertx** Vert.x module which uses RxJava to "Rx-ify" the Vert.x APIs making them composable.  
+[https://github.com/vert-x/mod-rxvertx](https://github.com/vert-x/mod-rxvertx)
+1. **rxfilewatcher** Convenient file watcher with an RxJava interface, based on JDK WatchService.  
+[https://github.com/helmbold/rxfilewatcher](https://github.com/helmbold/rxfilewatcher)
 
 
 
