@@ -237,6 +237,8 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/vyshane/rex-weather](https://github.com/vyshane/rex-weather)
 1. **RxBus** Event Bus By RxJava.  
 [https://github.com/AndroidKnife/RxBus](https://github.com/AndroidKnife/RxBus)
+1. **rxjava-essentials** These are the RxJava Essentials code samples modified to use the latest build tools and with minor code formatting modifications.
+[https://github.com/marcoRS/rxjava-essentials](https://github.com/marcoRS/rxjava-essentials)
 1. **RxJava-Essentials-CN** RxJava Essentials for Chinese.  
 [https://github.com/yuxingxin/RxJava-Essentials-CN](https://github.com/yuxingxin/RxJava-Essentials-CN)
 1. **Android-ReactiveLocation** Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.  
