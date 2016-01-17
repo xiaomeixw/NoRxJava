@@ -439,4 +439,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/beworker/rx-android-permissions](https://github.com/beworker/rx-android-permissions)
 1. **RxBluetooth** Android reactive bluetooth.  
 [https://github.com/IvBaranov/RxBluetooth](https://github.com/IvBaranov/RxBluetooth)
-
+1. **rxjava-extras** Utilities for use with rxjava.  
+[https://github.com/davidmoten/rxjava-extras](https://github.com/davidmoten/rxjava-extras)
