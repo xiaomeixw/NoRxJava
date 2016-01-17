@@ -224,8 +224,36 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/trello/RxLifecycle](https://github.com/trello/RxLifecycle)
 1. **frodo** Android Library for Logging RxJava Observables and Subscribers.  
 [https://github.com/android10/frodo](https://github.com/android10/frodo)
-
-
+1. **rx-mvvm-android** My way to MVVM using RxJava with new Android databinding.  
+[https://github.com/ffgiraldez/rx-mvvm-android](https://github.com/ffgiraldez/rx-mvvm-android)
+1. **rxjava-multiple-sources-sample** Sample code demonstrating loading multiple data sources via RxJava.  
+[https://github.com/dlew/rxjava-multiple-sources-sample](https://github.com/dlew/rxjava-multiple-sources-sample)
+1. **RxCupboard** Store and retrieve streams of POJOs from an Android database using RxJava and Cupboard.  
+[https://github.com/erickok/RxCupboard](https://github.com/erickok/RxCupboard)
+1. **RxPermissions** Android runtime permissions powered by RxJava.  
+[https://github.com/tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions)
+1. **JianDanRxJava** 使用Rxjava重构煎蛋高仿.  
+[https://github.com/ZhaoKaiQiang/JianDanRxJava](https://github.com/ZhaoKaiQiang/JianDanRxJava)
+1. **hello-mvp-dagger-2** Android MVP example code using RxJava, Retrolambda, Dagger 2, and more.  
+[https://github.com/grandstaish/hello-mvp-dagger-2](https://github.com/grandstaish/hello-mvp-dagger-2)
+1. **RxKotlin** RxJava bindings for Kotlin.  
+[https://github.com/ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin)
+1. **RxRelay** RxJava types that are both an Observable and an Action1.  
+[https://github.com/JakeWharton/RxRelay](https://github.com/JakeWharton/RxRelay)
+1. **NBAPlus** A concise APP about NBA News and Event with RxJava and EventBus.  
+[https://github.com/SilenceDut/NBAPlus](https://github.com/SilenceDut/NBAPlus)
+1. **RxDocs** Rx和RxJava文档中文翻译项目.  
+[https://github.com/mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs)
+1. **RxPalette** RxJava bindings for the Palette library on Android.  
+[https://github.com/hzsweers/RxPalette](https://github.com/hzsweers/RxPalette)
+1. **android-subscription-leaks** Small sample app demonstrating memory leak solutions when using RxJava.  
+[https://github.com/dlew/android-subscription-leaks](https://github.com/dlew/android-subscription-leaks)
+1. **RxBinding** Easy oneway bindings for Android, which is based on RxJava.  
+[https://github.com/ogaclejapan/RxBinding](https://github.com/ogaclejapan/RxBinding)
+1. **RxClojure** RxJava bindings for Clojure.  
+[https://github.com/ReactiveX/RxClojure](https://github.com/ReactiveX/RxClojure)
+1. **assertj-rx** AssertJ assertions for RxJava Observables.  
+[https://github.com/ribot/assertj-rx](https://github.com/ribot/assertj-rx)
 
 http://www.jianshu.com/p/e79f306e12f1
 https://github.com/kaushikgopal/RxJava-Android-Samples
