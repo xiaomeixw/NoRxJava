@@ -433,5 +433,39 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/pavlospt/RxFile](https://github.com/pavlospt/RxFile)
 1. **RxBluetooth** Android reactive bluetooth.  
 [https://github.com/IvBaranov/RxBluetooth](https://github.com/IvBaranov/RxBluetooth)
-
-
+1. **rxjava-extras** Utilities for use with rxjava.  
+[https://github.com/davidmoten/rxjava-extras](https://github.com/davidmoten/rxjava-extras)
+1. **hexagonal-mvp-reactive-android** Android project using RxJava, Hexagonal architecture and MVP.  
+[https://github.com/ffgiraldez/hexagonal-mvp-reactive-android](https://github.com/ffgiraldez/hexagonal-mvp-reactive-android)
+1. **rx-android-permissions** Simple RxJava library for requesting and observing Android runtime permissions.  
+[https://github.com/beworker/rx-android-permissions](https://github.com/beworker/rx-android-permissions)
+1. **rxjava-akka** Attempt at a bridge from RxJava to Akka and vice versa.
+[https://github.com/jmhofer/rxjava-akka](https://github.com/jmhofer/rxjava-akka)
+1. **DaggerStarter** RxJava Showcase.
+[https://github.com/Betterment/DaggerStarter](https://github.com/Betterment/DaggerStarter)
+1. **rx-docker-client** RxJava based Docker REST API client for the JVM.
+[https://github.com/shekhargulati/rx-docker-client](https://github.com/shekhargulati/rx-docker-client)
+1. **vertx-rx** RxJava api for Vert.x 3.0.
+[https://github.com/vert-x3/vertx-rx](https://github.com/vert-x3/vertx-rx)
+1. **rx-mvp-android** A basic project demonstrating some uses of RxJava with the Model-View-Presenter pattern on android.
+[https://github.com/zsiegel/rx-mvp-android](https://github.com/zsiegel/rx-mvp-android)
+1. **practicalRx** A RxJava workshop to discover this library by migrating a legacy application. DON'T fork or PR this repo as it may be reconstructed from practicalRxOrigin in the future..
+[https://github.com/simonbasle/practicalRx](https://github.com/simonbasle/practicalRx)
+1. **RxEspresso** Filling the gap between RxJava and Espresso.
+[https://github.com/stablekernel/RxEspresso](https://github.com/stablekernel/RxEspresso)
+1. **ZhihuDailyRRD** This simple example is created by RRD(Retrofit,RxJava,Dagger2).
+[https://github.com/lsxiao/ZhihuDailyRRD](https://github.com/lsxiao/ZhihuDailyRRD)
+1. **compass** Compass project - the RxJava way.
+[https://github.com/domsu/compass](https://github.com/domsu/compass)
+1. **rxjava-file** RxJava observables for files including NIO events.
+[https://github.com/davidmoten/rxjava-file](https://github.com/davidmoten/rxjava-file)
+1. **RxAndroidDemo** Sample app using RxJava and RxAndroid.
+[https://github.com/alphamu/RxAndroidDemo](https://github.com/alphamu/RxAndroidDemo)
+1. **RxJavaFX** RxJava bindings for JavaFX.
+[https://github.com/ReactiveX/RxJavaFX](https://github.com/ReactiveX/RxJavaFX)
+1. **RxJava-Threading-Examples** Examples of how to use many different threading operators in RxJava.
+[https://github.com/GrahamLea/RxJava-Threading-Examples](https://github.com/GrahamLea/RxJava-Threading-Examples)
+1. **rxjava-priority-scheduler** An RxJava scheduler that incorporates priorities in scheduling tasks.
+[https://github.com/ronshapiro/rxjava-priority-scheduler](https://github.com/ronshapiro/rxjava-priority-scheduler)
+1. **RxJavaDemo** Demos for the useage of Rxjava operators in android app.
+[https://github.com/Chaoba/RxJavaDemo](https://github.com/Chaoba/RxJavaDemo)
