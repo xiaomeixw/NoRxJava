@@ -232,6 +232,18 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/dlew/rxjava-multiple-sources-sample](https://github.com/dlew/rxjava-multiple-sources-sample)
 1. **RxCupboard** Store and retrieve streams of POJOs from an Android database using RxJava and Cupboard.  
 [https://github.com/erickok/RxCupboard](https://github.com/erickok/RxCupboard)
+1. **Android-RxFirebase** RxJava implementation for the Android Firebase client.  
+[https://github.com/spirosoik/Android-RxFirebase](https://github.com/spirosoik/Android-RxFirebase)
+1. **RxJavaSamples** 收集了RxJava常见的使用场景.  
+[https://github.com/THEONE10211024/RxJavaSamples](https://github.com/THEONE10211024/RxJavaSamples)
+1. **rx-shared-preferences** RxJava SharedPreferences for Android, lightweight and extendable.  
+[https://github.com/henrytao-me/rx-shared-preferences](https://github.com/henrytao-me/rx-shared-preferences)
+1. **rxsnappy** RxSnappy is a thread safe rxjava wrapper for the great SnappyDB fast key-value database for Android.  
+[https://github.com/team-supercharge/rxsnappy](https://github.com/team-supercharge/rxsnappy)
+1. **RxPaper** Reactive extension for NoSQL data storage on Android.  
+[https://github.com/cesarferreira/RxPaper](https://github.com/cesarferreira/RxPaper)
+1. **StackRX** Stackoverflow client utilizing RXJava and other libraries.  
+[https://github.com/Liffft/StackRX](https://github.com/Liffft/StackRX)
 1. **RxPermissions** Android runtime permissions powered by RxJava.  
 [https://github.com/tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions)
 1. **JianDanRxJava** 使用Rxjava重构煎蛋高仿.  
@@ -246,6 +258,14 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/SilenceDut/NBAPlus](https://github.com/SilenceDut/NBAPlus)
 1. **RxDocs** Rx和RxJava文档中文翻译项目.  
 [https://github.com/mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs)
+1. **Mateyko** Lightweight image loader based on Retrofit and RxJava.  
+[https://github.com/Marchuck/Mateyko](https://github.com/Marchuck/Mateyko)
+1. **GWSRxBus** Seems to me that it might call for using some of the RXJava and RxAndroid Observables sugar to handle those cases and make the event bus more streamlined and handle more use cases.  
+[https://github.com/shareme/GWSRxBus](https://github.com/shareme/GWSRxBus)
+1. **octodroid** Android toolkit for the GitHub API.  
+[https://github.com/rejasupotaro/octodroid](https://github.com/rejasupotaro/octodroid)
+1. **satellite** Satellite is a simple (for those who are familiar with RxJava) Android library, which allows to properly connect background tasks with visual parts of an application.  
+[https://github.com/konmik/satellite](https://github.com/konmik/satellite)
 1. **RxPalette** RxJava bindings for the Palette library on Android.  
 [https://github.com/hzsweers/RxPalette](https://github.com/hzsweers/RxPalette)
 1. **android-subscription-leaks** Small sample app demonstrating memory leak solutions when using RxJava.  
@@ -256,6 +276,30 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/ReactiveX/RxClojure](https://github.com/ReactiveX/RxClojure)
 1. **assertj-rx** AssertJ assertions for RxJava Observables.  
 [https://github.com/ribot/assertj-rx](https://github.com/ribot/assertj-rx)
+1. **RxT4A** RxJava Toolbox for Android (a fork of RxAndroid).  
+[https://github.com/cookpad/RxT4A](https://github.com/cookpad/RxT4A)
+1. **RxMediaStore** MediaStore with AutoCursor in RxJava.  
+[https://github.com/yongjhih/RxMediaStore](https://github.com/yongjhih/RxMediaStore)
+1. **SimpleWeibo** Simple Weibo SDK turns Weibo API into a Java interface with RxJava.  
+[https://github.com/8tory/SimpleWeibo](https://github.com/8tory/SimpleWeibo)
+1. **RxPromise** A Promise wrapper around RxJava's Observable.  
+[https://github.com/Q42/RxPromise](https://github.com/Q42/RxPromise)
+1. **reark** RxJava architecture library for Android.  
+[https://github.com/reark/reark](https://github.com/reark/reark)
+1. **RxParse** Reactive Parse.  
+[https://github.com/yongjhih/RxParse](https://github.com/yongjhih/RxParse)
+1. **prefser** Wrapper for Android SharedPreferences with object serialization and RxJava Observables.  
+[https://github.com/pwittchen/prefser](https://github.com/pwittchen/prefser)
+1. **RxJava-Optional** RxJava-Optional is an library that allows developers to use Optional using RxJava.  
+[https://github.com/eccyan/RxJava-Optional](https://github.com/eccyan/RxJava-Optional)
+1. **RxAndroidBootstrap** A project which showcases usage of Dagger 2, Rxjava and retrolambda among other open source libraries.  
+[https://github.com/richardradics/RxAndroidBootstrap](https://github.com/richardradics/RxAndroidBootstrap)
+1. **rxpresso** Easy Espresso UI testing for Android applications using RxJava.  
+[https://github.com/novoda/rxpresso](https://github.com/novoda/rxpresso)
+1. **RetroFacebook** RetroFacebook turns Facebook API into a Java interface using RxJava.  
+[https://github.com/yongjhih/RetroFacebook](https://github.com/yongjhih/RetroFacebook)
+1. **rxmocks** Mocks/Assertions for RxJava testing.  
+[https://github.com/novoda/rxmocks](https://github.com/novoda/rxmocks)
 1. **RxStore** A tiny library that assists in saving and restoring objects to and from disk using RxJava.  
 [https://github.com/Gridstone/RxStore](https://github.com/Gridstone/RxStore)
 1. **Intro-To-RxJava** An extensive tutorial on RxJava.  
