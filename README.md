@@ -110,6 +110,12 @@ When to find RxJava:
 
 44.[Android RxJava使用介绍(一)Hello World](http://blog.csdn.net/job_hesc/article/details/45798307):RxJava最核心的两个东西就是Observables(被观察者，也就是事件源)和Subscribers(观察者)，由Observables发出一系列的事件，Subscribers进行订阅接收并进行处理，看起来就好像是设计模式中的观察者模式，但是跟观察者模式不同的地方就在于，如果没有观察者(即Subscribers)，Observables是不会发出任何事件的。
 
+45.[可能是东半球最全的RxJava使用场景小结](http://blog.csdn.net/theone10211024/article/details/50435325):可能是东半球最全的RxJava使用场景小结.
+
+46.[Implementing an Event Bus With RxJava - RxBus](http://nerds.weddingpartyapp.com/tech/2014/12/24/implementing-an-event-bus-with-rxjava-rxbus/):“RxBus” is not going to be a library. Implementing an event bus with RxJava is so ridiculously easy that it doesn’t warrant the bloat of an independent library.
+
+47.[Website: http://rxmarbles.com/](http://rxmarbles.com/):Interactive diagrams of Rx Observables.
+
 ### 1-2 Video
 
 1.[Get Reactive by Wolfram Rittmeyer/Pascal Welsch](https://www.youtube.com/watch?v=ssC4nX_pP3o):The RxJava hype is still in full swing and almost everything gets Rxified. At least since the stable RxAndroid 1.0 release it’s time to take RxAndroid seriously!In this session you will learn what RxJava is about, how to use it on Android and how RxAndroid can be used to build maintainable Android Apps from networking with Retrofit2 to UI with the new RxBinding and RxLifecycle libraries powered by MVP.If you haven’t had the time to Get Reactive, we’ll provide a quick introduction why you should use RxAndroid in your current and next projects.Code: https://github.com/passsy/android-GetReactive﻿.Slides: https://speakerdeck.com/passsy/get-reactive-devoxx.
@@ -208,6 +214,8 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/zsoltk/RxAndroidLibs](https://github.com/zsoltk/RxAndroidLibs)
 1. **RxDocs** Rx和RxJava文档中文翻译项目.  
 [https://github.com/mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs)
+1. **RxAndroid-overview** Deckset presentation about RxJava and RxAndroid.  
+[https://github.com/AL333Z/RxAndroid-overview/blob/master/presentation.md](https://github.com/AL333Z/RxAndroid-overview/blob/master/presentation.md)
 1. **RxJava-Android-Samples** Learning RxJava for Android by example.  
 [https://github.com/kaushikgopal/RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
 1. **RxBinding** RxJava binding APIs for Android's UI widgets.  
@@ -396,7 +404,20 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/pwittchen/ReactiveBeacons](https://github.com/pwittchen/ReactiveBeacons)
 1. **RxFace** 用 RxJava, Retrofit, Okhttp 处理人脸识别的简单用例.  
 [https://github.com/MrFuFuFu/RxFace](https://github.com/MrFuFuFu/RxFace)
-
+1. **HelloRx** RxAndroid (RxJava) examples.  
+[https://github.com/GDG-Korea/HelloRx](https://github.com/GDG-Korea/HelloRx)
+1. **RxAndroidDemo** Sample app using RxJava and RxAndroid.  
+[https://github.com/alphamu/RxAndroidDemo](https://github.com/alphamu/RxAndroidDemo)
+1. **rxandroid-architecture-sample** A sample project to demonstrate a an android app that can consume data from multiple sources using RxJava.  
+[https://github.com/zsiegel/rxandroid-architecture-sample](https://github.com/zsiegel/rxandroid-architecture-sample)
+1. **rxjava-android-playground** ⚡️Demo Android project for playing with RxJava, RxAndroid, RxBindings, RxLifecycle and other Rx related libraries on Android, just for learning purposes.  
+[https://github.com/walmyrcarvalho/rxjava-android-playground](https://github.com/walmyrcarvalho/rxjava-android-playground)
+1. **RxAndroidCrunch** A simple tutorial step by step on how to implement and use RxAndroid.  
+[https://github.com/tiwiz/RxAndroidCrunch](https://github.com/tiwiz/RxAndroidCrunch)
+1. **Learning-Rxandroid** Learn and use RxAndroid together by PPT and Example.  
+[https://github.com/YongHuiLuo/Learning-Rxandroid](https://github.com/YongHuiLuo/Learning-Rxandroid)
+1. **TestDetailRxAndroid** RxAndroid基础知识.  
+[https://github.com/SpikeKing/TestDetailRxAndroid](https://github.com/SpikeKing/TestDetailRxAndroid)
 
 
 
