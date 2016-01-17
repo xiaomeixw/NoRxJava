@@ -54,6 +54,13 @@ Thinking like a Rxjava library creator,Why we need use RxJava...I will tell you 
 
 24.[Android Application Architecture](https://medium.com/ribot-labs/android-application-architecture-8b6e34acda65?source=false---------3):Our journey from standard Activities and AsyncTasks to a modern MVP-based architecture powered by RxJava.(Chinese translation:[Android应用架构](http://www.jianshu.com/p/8ca27934c6e6)).
 
+25.[Unit Testing RxJava Observables](https://medium.com/ribot-labs/unit-testing-rxjava-6e9540d4a329#.a3d6yribm):RxJava is a great library, but it’s not easy to get started. Here we outline different approaches to unit test Observables.
+
+26.[Why should we use RxJava on Android](https://medium.com/@lpereira/why-should-we-use-rxjava-on-android-c9066087c56c?source=false---------5):Reactive Extensions (Rx) are a set of interfaces and methods which provide a way to developers solve problems rapidly, simply to maintain, and easy to understand. RxJava provides just that, a set of tools to help you write clean and simpler code.To be honest with you, at first I thought RxJava was just way to difficult to understand and the ideia to add a library just to use these new tools was very troubling for me. After awhile, I understood that I was struggling by doing the same boilerplate implementation over and over again to keep the user updated on what is going on the application.
+
+27.[RX Java and Recursion](https://medium.com/@stevenlow1983/rx-java-and-recursion-719f8ee1977a#.hs9i55gqp):Recently I had what seemed like a tricky problem. I was using akka and wanted to make an http call within the method handling a message. When the http call completed, I wanted the actor to send a message back to the original sender actor. As I was using akka I needed to make the http call asynchronously so as not to block the thread. Seems straight forward enough if I use something like ReactiveX. I can use an async http client and convert a future into an observable. I can then subscribe to that observable, handle the http response, and send a message back to the sender. All lovely and non-blocking.
+
+
 
 ### 1-2 Video
 
