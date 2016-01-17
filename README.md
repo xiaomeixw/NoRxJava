@@ -87,7 +87,11 @@ When to find RxJava:
 
 37.[RxJava 短期效用](https://medium.com/cowbear-coder/rxjava-feed-of-rxjava-and-android-1daae2059847#.tvel4ildr):一個 FRP 的實現，透過 FRP(Functional Reactive Programming) 概念。短期效用：有效避免巢狀 callback 增加可讀性以及減少 List<item> 的轉換成本。
 
+38.[Legal from State to State](https://medium.com/@justinpollard/legal-from-state-to-state-a2d32330f1a2#.vzplqnw80):Avoiding IllegalStateExceptions using RxJava and RxLifecycle.
 
+39.[Reactive Streams 1.0.0 interview](https://medium.com/@viktorklang/reactive-streams-1-0-0-interview-faaca2c00bec#.fqy5ijlqh):On the heels of the release of Reactive Streams 1.0.0, I decided to grab a couple of engineers — Ben Christensen of RxJava and Netflix fame, Stephane Maldini of Pivotal’s Project Reactor and the inimitable Dr. Roland Kuhn of the Akka Project at Typesafe — that have been engaged in the project, to ask them a couple of quick questions about Reactive Streams, their involvement, and what the future has in store for Reactive Streams.
+
+40.[Taking Command of Android Development](https://medium.com/@theMikhail/take-command-of-android-development-9411af8cf571#.ron9qpxpl):Throughout my Android career, I’ve often been asked to complete what sounds like a simple task:Get information from a server to a UI.
 
 ### 1-2 Video
 
