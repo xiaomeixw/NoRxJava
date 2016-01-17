@@ -49,7 +49,7 @@ Thinking like a Rxjava library creator,Why we need use RxJava...I will tell you 
 
 2.[Learning RxJava (for Android) by example](https://www.youtube.com/watch?v=k3D0cWyNno4):A presentation aimed at beginners who have heard about RxJava and want to see what all the fuss is about. Kaushik Gopal provides primers on RxJava and RxAndroid, then looks at implementing real-world use cases in Android with RxJava. 
 
-3.[Devnexus 2015 - RxJava and Retrolambda Making Android - Ross Hambrick](https://www.youtube.com/watch?v=vRl3u1I9v2M)
+3.[Devnexus 2015 - RxJava and Retrolambda Making Android - Ross Hambrick](https://www.youtube.com/watch?v=vRl3u1I9v2M):Devnexus 2015 - RxJava and Retrolambda Making Android - Ross Hambrick.
 
 4.[#droidconDE 2015: Ivan Morgillo – Android reactive programming with Rxjava](https://www.youtube.com/watch?v=JCLZ55M2gVo):In a world where there is a smartphone in every pocket, designing and building applications that can run smoothly and provide the User Experience that users will like it’s the only way to go. Reactive Programming style with RxJava will help you to beat Android Platform limitations to create astonishing Android Apps.This talk will be a practical journey from basic Reactive Programming and Observer Pattern concepts to the main feature of RxJava, with practical code examples and a real-world app.Find more information here: http://15.droidcon.de/session/android...
 
@@ -57,9 +57,10 @@ Thinking like a Rxjava library creator,Why we need use RxJava...I will tell you 
 
 6.[Droidcon NYC 2015 - Introduction to Functional Reactive Programming](https://www.youtube.com/watch?v=_XKX6UQfNGY):Juan Gomez-Netflix:Introduction to Functional Reactive Programming.http://droidcon.nyc/2015/dcnyc/33/
 
-7.[Reactive Programming](https://www.youtube.com/watch?v=3bAQXTVsEiQ)
+7.[Reactive Programming](https://www.youtube.com/watch?v=3bAQXTVsEiQ):Meetup: Reactive Programming by Venkat Subramaniam
+Get $10 off Digital Ocean Cloud Hosting https://goo.gl/VK2R48.NDC Meetup with Venkat Subramaniam on Reactive Programming.
 
-8.[React 2014 : Erik Meijer - What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0)
+8.[React 2014 : Erik Meijer - What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0):The inimitable Erik Meijer delivering his opening keynote to React 2014.
 
 9.[Functional Reactive Programming with RxJava](https://www.youtube.com/watch?v=Dk8cR1Kxj0Y):RxJava is a library for composing asynchronous and event-based programs by using observable sequences for the Java VM. It supports Java 6+, Clojure, Scala, Groovy, JRuby, and Java 8 lambdas. In this session, learn how the Netflix API uses RxJava (techblog.netflix.com/2013/02/rxjava-net­flix-api.html) to implement highly concurrent Web services against asynchronous datasources without blocking, synchronization, or thread safety concerns by using declarative functional reactive composition. Come see what functional reactive programming looks like, how it fits into Java, and what use cases it addresses.
 
