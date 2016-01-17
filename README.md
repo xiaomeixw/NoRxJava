@@ -42,9 +42,93 @@ Thinking like a Rxjava library creator,Why we need use RxJava...I will tell you 
 
 18.[First RxJava](http://codethink.me/2015/05/09/intro-of-rxjava/)
 
+### 1-3 Video
+
+[Get Reactive by Wolfram Rittmeyer/Pascal Welsch](https://www.youtube.com/watch?v=ssC4nX_pP3o):The RxJava hype is still in full swing and almost everything gets Rxified. At least since the stable RxAndroid 1.0 release it’s time to take RxAndroid seriously!In this session you will learn what RxJava is about, how to use it on Android and how RxAndroid can be used to build maintainable Android Apps from networking with Retrofit2 to UI with the new RxBinding and RxLifecycle libraries powered by MVP.If you haven’t had the time to Get Reactive, we’ll provide a quick introduction why you should use RxAndroid in your current and next projects.Code: https://github.com/passsy/android-GetReactive﻿.Slides: https://speakerdeck.com/passsy/get-reactive-devoxx.
 
 
-### 1-2 Library
+[Learning RxJava (for Android) by example](https://www.youtube.com/watch?v=k3D0cWyNno4):A presentation aimed at beginners who have heard about RxJava and want to see what all the fuss is about. Kaushik Gopal provides primers on RxJava and RxAndroid, then looks at implementing real-world use cases in Android with RxJava. 
+
+[Devnexus 2015 - RxJava and Retrolambda Making Android - Ross Hambrick](https://www.youtube.com/watch?v=vRl3u1I9v2M)
+
+[#droidconDE 2015: Ivan Morgillo – Android reactive programming with Rxjava](https://www.youtube.com/watch?v=JCLZ55M2gVo):In a world where there is a smartphone in every pocket, designing and building applications that can run smoothly and provide the User Experience that users will like it’s the only way to go. Reactive Programming style with RxJava will help you to beat Android Platform limitations to create astonishing Android Apps.This talk will be a practical journey from basic Reactive Programming and Observer Pattern concepts to the main feature of RxJava, with practical code examples and a real-world app.Find more information here: http://15.droidcon.de/session/android...
+
+[Jake Wharton: Reactive Extensions, RxAndroid, Optimization](https://www.youtube.com/watch?v=qGM04LcSCmo):Before Droidcon NYC 2015, Huyen tries to pick Jake Wharton's brain on Reactive Extensions, RxAndroid, and optimization.
+
+[Droidcon NYC 2015 - Introduction to Functional Reactive Programming](https://www.youtube.com/watch?v=_XKX6UQfNGY):Juan Gomez-Netflix:Introduction to Functional Reactive Programming.http://droidcon.nyc/2015/dcnyc/33/
+
+[Reactive Programming](https://www.youtube.com/watch?v=3bAQXTVsEiQ)
+
+[React 2014 : Erik Meijer - What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0)
+
+[Functional Reactive Programming with RxJava](https://www.youtube.com/watch?v=Dk8cR1Kxj0Y):RxJava is a library for composing asynchronous and event-based programs by using observable sequences for the Java VM. It supports Java 6+, Clojure, Scala, Groovy, JRuby, and Java 8 lambdas. In this session, learn how the Netflix API uses RxJava (techblog.netflix.com/2013/02/rxjava-net­flix-api.html) to implement highly concurrent Web services against asynchronous datasources without blocking, synchronization, or thread safety concerns by using declarative functional reactive composition. Come see what functional reactive programming looks like, how it fits into Java, and what use cases it addresses.
+
+[Java 8 Stream and RxJava comparison: patterns and performances by José Paumard](https://www.youtube.com/watch?v=fabN6HNZ2qY):The Stream API is among the most important API introduced in the JDK 8. New patterns have been introduced, enabling new ways to process data, especially in parallel. The Java 8 Stream API is not alone on this segment. We would like to present here RxJava, a popular API, brought by Netflix. The patterns offered by this API are quite different from the Stream API. This presentation compares those two APIs, from the developer point of view. What patterns are proposed on both sides, and what are the performances of those patterns. Many examples and benchmarks (using JMH) are shown. The goal is not to state which one of those APIs is the best, but merely give keys to decide which one is the best suited for my application.
+
+[A Playful Introduction to Rx by Erik Meijer](https://www.youtube.com/watch?v=WKore-AkisY):Learning Rx does not have to be boring like working your way through theoretical sermons about esoteric concepts like category theory and duality. Life is too short for that kind of abstract nonsense. So what is a better way to spend a hot summer day with an ice-cold drink, or a cold winter night with a piping hot drink, than to learn Rx by writing an awesome platform game? In this talk, Erik will walk you through many of the features of Rx through programming a friendly bug to run across a lushy grassy meadow and jump for the stars.
+
+[Learn you some Rx for the greater good](https://www.youtube.com/watch?v=BujWQSjtplc):What is this Rx thing that everybody keeps talking about? How am I supposed to learn it? Is it even worth my effort? Watch, learn and try Functional Reactive Programming with RxJava on Android platform “For The Greater Good”.
+
+[RxJava Tutorial 01 - download, setup, & write simple app.](https://www.youtube.com/watch?v=hzaq64zh0K4):RxJava Tutorial 01 - download, setup, & test-run by writing a simple app. . website + download source code @ http://www.zaneacademy.com
+
+[Functional Reactive Programming with RxJava • Ben Christensen](https://www.youtube.com/watch?v=_t06LRX0DV0):ABSTRACT
+Rxjava is a library for composing asynchronous and event-based programs using observable sequences for the Java VM that supports Java 6+, Clojure, Scala, Groovy, JRuby and Java 8 lambdas.Learn how the Netflix API uses RxJava (http://techblog.netflix.com/2013/02/r...) to implement highly concurrent web services against asynchronous data sources without blocking, synchronization or thread-safety concerns by using declarative functional reactive composition.Come see what functional reactive programming looks like, how it fits into Java, what use cases it addresses and real-world examples of how it can become a tool in your application development. 
+
+[Introducing RxJava into a Spring Boot REST API](https://www.youtube.com/watch?v=QOR69q1e63Y):RxJava is an awesome library for async data streams. It is both expressive and powerful but the learning curve can be quite steep at first. So we want to quickstart developers into the world of Reactive eXtensions with more context than just listing operators!Adapted from a hands-on workshop, this talk will describe how one can migrate code into a fully async and RxJava-based application, built upon Spring Boot and Java 8.
+What kind of changes does this require? What shifts in thinking? What are the traps and pitfalls to avoid? Hopefully you'll learn the answers to these questions in this talk!Slides: http://www.slideshare.net/SpringCentr...+XsoulflyX https://github.com/simonbasle/practicalRx﻿
+
+[Demystifying RXJAVA Subscribers](https://www.youtube.com/watch?v=NVKmyK6sd-Q):Demystifying RXJAVA SubscribersRxJava is a powerful library for creating and composing streams of data. It can quickly be used to great effect, but a deeper understand of its internals will prevent running into pitfalls later on.This talk will focus on the core mechanism of how streams are created and observed: subscribers and subscriptions. We will start with an introduction to the contract of the Subscriber type and how it is used by sources to create streams. Then we will touch on operators and how they use subscribers to modify the data flowing through streams. Finally we'll look at how threading behaves in operators like subscribeOn and observeOn.
+
+[Android reactive programming with RxJava by Ivan Morgillo](https://www.youtube.com/watch?v=Jnca7o4f-1k):In a world where there is a smartphone in every pocket, designing and building applications that can run smoothly and provide the User Experience that users will like it’s the only way to go. Reactive Programming style with RxJava will help you to beat Android Platform limitations to create astonishing Android Apps.This talk will be a practical journey from basic Reactive Programming and Observer Pattern concepts to the main feature of RxJava, with practical code examples and a real-world app.I'll show the audience how to create an Observable "from scratch", from a list or from a function we already have in our code base. Our listeners will learn how to filter an Observable sequence to create a new sequence containing only the values we want; they will learn how to apply a function to an Observable, how to concatenate, merge or zip Observables. I'll show how to enjoy RxAndroid Schedulers to overcome the threading and concurrency hell in Android.
+
+[RxJava Easy Wins: Breaking down Reactive Programming](https://www.youtube.com/watch?v=SVv4i39MbEM):Ron Shapiro, Android Developer: http://nyc.droidcon.com/2014/dcnyc/62/...Slides from https://speakerdeck.com/search?q=droi...
+
+[005. Практика использования RxJava в Я.Музыке и Я.Радио - Евгений Макар, Дмитрий Стабровски](https://www.youtube.com/watch?v=9o9dhWzOTa8):Евгений расскажет, как здорово используется RxJava в Яндекс.Радио, а Дмитрий — как благодаря этой технологии код Яндекс.Музыки становится легче.
+
+[Lambdas on Android: RetroLambda, RxJava and Android Studio](https://www.youtube.com/watch?v=l63V5bZaS70):In this video, I'll show you how to migrate to lambdas on Android using RetroLambda, GradleRetroLambda and Android Studio.
+
+[RXJava on practice, Cegeka](https://www.youtube.com/watch?v=ZxvPXvKiIDQ):RXJava on practice, Cegeka.
+
+[RxJava Tutorial 03 - Observable from, just, & create methods](https://www.youtube.com/watch?v=sDqrlNprY24):Website + download source code http://www.zaneacademy.com.
+
+[RxJava: Reactive Extensions in Scala](https://www.youtube.com/watch?v=tOMK_FYJREw):RxJava is a library for composing asynchronous and event-based programs using observable sequences for the Java VM that supports Java 6+, Clojure, Scala, Groovy, JRuby, and Java 8 lambdas.
+
+[Ben Christensen on Reactive Programming with RxJava (TimesOpen: Reactive Programming)](https://www.youtube.com/watch?v=hZFjWho576o):Ben Christensen of Netflix Edge Engineering explains how Netflix deals with asynchronous streams of data and multiple values.
+
+[RxJava Tutorial 02 - Reactive Addition Example](https://www.youtube.com/watch?v=alniTPvuPFo):Website + download source code http://www.zaneacademy.com.
+
+[Retrofit y RXJava: cómo mejorar el rendimiento en Android Apps](https://www.youtube.com/watch?v=8-3Unjov5gk):En ese te video, Pedro Hernández, profesor del curso de Desarrollo para Android, te enseñará cómo obtener el mayor rendimiento en tus peticiones al servidor a través del uso de herramientas como RX java y Retrofit .
+
+[Reactive Data Acess with RxJava, Including N1QL: Couchbase Connect 2015](https://www.youtube.com/watch?v=3EOKYPbvwHQ):This talk shows how to build scalable, reactive, and fault tolerant applications by making use of RxJava and the brand new fully reactive Couchbase Java SDK 2.x. We will also cover stability patterns and how our brand new query language, “N1QL” fits into the picture. This subject is important, as applications that exclusively rely on synchronous data access often hit a scalability wall when responses slow down and thread pools are exhausted. New paradigms, like reactive programming, alleviate the wasting of resources by dispatching them where they can do useful work and provide extensive toolsets to deal with the ever growing demands of web applications.
+
+[GKAC 2014 Nov. - RxJava를 활용한 Functional Reactive Programming](https://www.youtube.com/watch?v=VIoTmuwRsH0):세션 슬라이드: http://www.slideshare.net/waynejo/gdg...
+
+[Learn you some Rx for the greater good](https://www.youtube.com/watch?v=BujWQSjtplc):What is this Rx thing that everybody keeps talking about? How am I supposed to learn it? Is it even worth my effort? Watch, learn and try Functional Reactive Programming with RxJava on Android platform “For The Greater Good”.
+
+[All Video:RxJava Tutorial](https://www.youtube.com/watch?v=hzaq64zh0K4&list=PLWM-sNqx_ezof__5WnN8WVQmMWXQkcFHi)by gasdia73youtube:RxJava Tutorial - download, setup, & test-run by writing a simple app. . website + download source code @ http://www.zaneacademy.com
+
+[All Video:Learning RxJava (for Android) by example](https://www.youtube.com/watch?v=k3D0cWyNno4&list=PLREjTXdqZ86p6hkWi014Xz4Ro5F5Tww0B)by Bálint Böde:A presentation aimed at beginners who have heard about RxJava and want to see what all the fuss is about. Kaushik Gopal provides primers on RxJava and RxAndroid, then looks at implementing real-world use cases in Android with RxJava. 
+
+[All Video:Functional Reactive Programming with RxJava • Ben Christensen](https://www.youtube.com/watch?v=_t06LRX0DV0&list=PLv170KGbI73s6y-AmrqTn8rGAF1yOOiuD)by matej zdolsek :This presentation was recorded at GOTO Aarhus 2013.Check out our upcoming conferences at http://gotocon.com
+
+[WJUG #126 - CompletableFuture i RxJava - functional reactive programming w Javie - Tomasz Nurkiewicz](https://www.youtube.com/watch?v=S7gCcgTWSPs):WJUG #126 - CompletableFuture i RxJava - functional reactive programming w Javie - Tomasz Nurkiewicz.
+
+[RxJava intro](https://www.youtube.com/watch?v=1AhA_4E9ufM):RxJava intro.
+
+[RxJava arhictecture](https://www.youtube.com/watch?v=nACaHpca7OI):RxJava arhictecture.
+
+[RxJava: Functional Reactive Programming - RJUG - December 17, 2014](https://www.youtube.com/watch?v=_tIVfsPUjXg):Richmond Java Users Group - RJUG December 17, 2014.
+
+[GKAC 2015 Apr. - RxAndroid](https://www.youtube.com/watch?v=FpIqbVTnB30):Speaker: 김용욱.Session slide: http://www.slideshare.net/gdgkorea/gk...﻿
+
+[Evolution of RxAndroid (Gource Visualization)](https://www.youtube.com/watch?v=1cvlXuurWYQ):Gource visualization of RxAndroid (https://github.com/ReactiveX/RxAndroid). RxJava bindings for Android.
+
+[All Video:Lambdas on Android: RetroLambda, RxJava and Android Studio](https://www.youtube.com/watch?v=l63V5bZaS70&list=PL7D6rDpJO-797g91KOUkD0DEJeadW5qI-)by bibol bolat :In this video, I'll show you how to migrate to lambdas on Android using RetroLambda, GradleRetroLambda and Android Studio.
+
+[All Video:Lambdas on Android: 웨비나 - RxAndroid ](https://www.youtube.com/watch?v=fBFHqJDLn9c&list=PLwA8jrpzf_Ccy_WsWAGZ0cz5oDu0xaWcg&index=2)by bs sin  :RxAndroid.
+
+
+### 1-3 Library
 
 http://www.jianshu.com/p/e79f306e12f1
 https://github.com/kaushikgopal/RxJava-Android-Samples
