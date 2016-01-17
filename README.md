@@ -254,6 +254,22 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/ReactiveX/RxClojure](https://github.com/ReactiveX/RxClojure)
 1. **assertj-rx** AssertJ assertions for RxJava Observables.  
 [https://github.com/ribot/assertj-rx](https://github.com/ribot/assertj-rx)
+1. **RxStore** A tiny library that assists in saving and restoring objects to and from disk using RxJava.  
+[https://github.com/Gridstone/RxStore](https://github.com/Gridstone/RxStore)
+1. **Intro-To-RxJava** An extensive tutorial on RxJava.  
+[https://github.com/Froussios/Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava)
+1. **rxpresso** Easy Espresso UI testing for Android applications using RxJava.  
+[https://github.com/novoda/rxpresso](https://github.com/novoda/rxpresso)
+1. **rxloader** Handles Android's activity lifecyle for rxjava's Observable.  
+[https://github.com/evant/rxloader](https://github.com/evant/rxloader)
+1. **RxBlur** 用RxJava处理和操作高斯模糊效果的简单用例.  
+[https://github.com/SmartDengg/RxBlur](https://github.com/SmartDengg/RxBlur)
+1. **RxJavaSamples** 收集了RxJava常见的使用场景.  
+[https://github.com/THEONE10211024/RxJavaSamples](https://github.com/THEONE10211024/RxJavaSamples)
+1. **RxWeather** Architecting Android with RxJava.  
+[https://github.com/SmartDengg/RxWeather](https://github.com/SmartDengg/RxWeather)
+1. **RengwuxianRxjava** 扔物线《给Android开发者的RxJava详解》文章中的例子.  
+[https://github.com/androidmalin/RengwuxianRxjava](https://github.com/androidmalin/RengwuxianRxjava)
 
 http://www.jianshu.com/p/e79f306e12f1
 https://github.com/kaushikgopal/RxJava-Android-Samples
