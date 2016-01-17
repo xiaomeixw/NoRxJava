@@ -200,6 +200,32 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 ### 1-3 Library
 1. **MovieGuide** An Android app that showcases the MVP pattern and RxJava.  
 [https://github.com/esoxjem/MovieGuide](https://github.com/esoxjem/MovieGuide)
+1. **Awesome-RxJava** RxJava resources.  
+[https://github.com/lzyzsd/Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
+1. **RxJava-Android-Samples** Learning RxJava for Android by example.  
+[https://github.com/kaushikgopal/RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
+1. **RxBinding** RxJava binding APIs for Android's UI widgets.  
+[https://github.com/JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding)
+1. **reark** RxJava architecture library for Android.  
+[https://github.com/reark/reark](https://github.com/reark/reark)
+1. **Meizhi** ank.io unofficial client, RxJava & Retrofit.  
+[https://github.com/drakeet/Meizhi](https://github.com/drakeet/Meizhi)
+1. **PhotoNoter** An Android app that use MVP+Dagger2+RxJava+Dex+MaterialDesign.  
+[https://github.com/yydcdut/PhotoNoter](https://github.com/yydcdut/PhotoNoter)
+1. **rex-weather** RexWeather - A sample Android project demonstrating the use of Retrofit and RxJava to interact with web services.  
+[https://github.com/vyshane/rex-weather](https://github.com/vyshane/rex-weather)
+1. **RxJava-Essentials-CN** RxJava Essentials for Chinese.  
+[https://github.com/yuxingxin/RxJava-Essentials-CN](https://github.com/yuxingxin/RxJava-Essentials-CN)
+1. **Android-ReactiveLocation** Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.  
+[https://github.com/mcharmas/Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation)
+1. **ReactiveNetwork** Android library listening network connection state and change of the WiFi signal strength with RxJava Observables.  
+[https://github.com/pwittchen/ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork)
+1. **RxLifecycle** Lifecycle handling APIs for Android apps using RxJava.  
+[https://github.com/trello/RxLifecycle](https://github.com/trello/RxLifecycle)
+1. **frodo** Android Library for Logging RxJava Observables and Subscribers.  
+[https://github.com/android10/frodo](https://github.com/android10/frodo)
+
+
 
 http://www.jianshu.com/p/e79f306e12f1
 https://github.com/kaushikgopal/RxJava-Android-Samples
