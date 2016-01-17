@@ -38,6 +38,12 @@ Thinking like a Rxjava library creator,Why we need use RxJava...I will tell you 
 
 16.[Grokking RxJava, Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/):In parts 1, 2, and 3 I covered how RxJava works (in a general sense). But as an Android developer, how do you make it work for you? Here is some practical information for Android developers.RxAndroid is an extension to RxJava built just for Android. It includes special bindings that will make your life easier.(Chinese translation:[深入浅出RxJava四-在Android中使用响应式编程](http://blog.csdn.net/lzyzsd/article/details/45033611))
 
+17.[Using RxJava with Android](http://andraskindler.com/blog/2013/using-rxjava-in-android/):This post is the first in a series about RxJava and Android. This tutorial will show you how to build a REST API client in Android with RxJava observables (and based on Square’s Retrofit).If you’re into Android (and Java) development, there is a good chance you’ve already heard about RxJava, which is a Java implementation of Reactive Extensions developed by Netflix. Reactive Extensions is a library to compose asynchronous and event-based programs using observable collections and LINQ-style query operators, quoted from the corresponding MSDN site. Netflix made the library available for the public on Github, supporting Java 6 or newer, making it available to use with Android apps as well.(Chinese translation:[在安卓上使用RxJava](http://www.importnew.com/8321.html))
+
+18.[First RxJava](http://codethink.me/2015/05/09/intro-of-rxjava/)
+
+
+
 ### 1-2 Library
 
 http://www.jianshu.com/p/e79f306e12f1
