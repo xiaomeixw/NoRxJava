@@ -447,7 +447,7 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/ffgiraldez/hexagonal-mvp-reactive-android](https://github.com/ffgiraldez/hexagonal-mvp-reactive-android)
 1. **rx-android-permissions** Simple RxJava library for requesting and observing Android runtime permissions.  
 [https://github.com/beworker/rx-android-permissions](https://github.com/beworker/rx-android-permissions)
-1. **rxjava-akka** Attempt at a bridge from RxJava to Akka and vice versa.
+1. **rxjava-akka** Attempt at a bridge from RxJava to Akka and vice versa.  
 [https://github.com/jmhofer/rxjava-akka](https://github.com/jmhofer/rxjava-akka)
 1. **DaggerStarter** RxJava Showcase.
 [https://github.com/Betterment/DaggerStarter](https://github.com/Betterment/DaggerStarter)
