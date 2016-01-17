@@ -427,7 +427,8 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/YongHuiLuo/Learning-Rxandroid](https://github.com/YongHuiLuo/Learning-Rxandroid)
 1. **TestDetailRxAndroid** RxAndroid基础知识.  
 [https://github.com/SpikeKing/TestDetailRxAndroid](https://github.com/SpikeKing/TestDetailRxAndroid)
-
+1. **RxSmartLock** Reactive extension for Google's Smart Lock for Passwords API.  
+[https://github.com/ShlMlkzdh/RxSmartLock](https://github.com/ShlMlkzdh/RxSmartLock)
 
 
 
