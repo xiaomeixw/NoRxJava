@@ -449,7 +449,7 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/vert-x3/vertx-rx](https://github.com/vert-x3/vertx-rx)
 1. **rx-mvp-android** A basic project demonstrating some uses of RxJava with the Model-View-Presenter pattern on android.
 [https://github.com/zsiegel/rx-mvp-android](https://github.com/zsiegel/rx-mvp-android)
-1. **practicalRx** A RxJava workshop to discover this library by migrating a legacy application. DON'T fork or PR this repo as it may be reconstructed from practicalRxOrigin in the future..
+1. **practicalRx** A RxJava workshop to discover this library by migrating a legacy application. DON'T fork or PR this repo as it may be reconstructed from practicalRxOrigin in the future.
 [https://github.com/simonbasle/practicalRx](https://github.com/simonbasle/practicalRx)
 1. **RxEspresso** Filling the gap between RxJava and Espresso.
 [https://github.com/stablekernel/RxEspresso](https://github.com/stablekernel/RxEspresso)
