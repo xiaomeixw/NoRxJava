@@ -42,6 +42,9 @@ Thinking like a Rxjava library creator,Why we need use RxJava...I will tell you 
 
 18.[First RxJava](http://codethink.me/2015/05/09/intro-of-rxjava/)
 
+19.[RxJava Observable tranformation: concatMap() vs flatMap()](http://fernandocejas.com/2015/01/11/rxjava-observable-tranformation-concatmap-vs-flatmap/):After a while I decided that was time to get back for some writing. As you may know at @SoundCloud we do a strong use of the reactive approach, but to be honest, I am not here to talk about RxJava itself because there are great articles out there to read about it (here and here) and great people to follow as well such as Ben Christesen, Matthias Käppler and many others.I also consider myself a ‘newbie’ in reactive programming and now I am at that stage where you start seeing the benefits of this approach and want to make every single object reactive, which is very dangerous, so if you are in the same level as me, just keep an eye on it, and use it wherever makes sense, you are advised.(Chinese translation:[RxJava变换操作符：.concatMap( )与.flatMap( )的比较](http://www.jianshu.com/p/6d16805537ef))
+
+
 ### 1-2 Video
 
 1.[Get Reactive by Wolfram Rittmeyer/Pascal Welsch](https://www.youtube.com/watch?v=ssC4nX_pP3o):The RxJava hype is still in full swing and almost everything gets Rxified. At least since the stable RxAndroid 1.0 release it’s time to take RxAndroid seriously!In this session you will learn what RxJava is about, how to use it on Android and how RxAndroid can be used to build maintainable Android Apps from networking with Retrofit2 to UI with the new RxBinding and RxLifecycle libraries powered by MVP.If you haven’t had the time to Get Reactive, we’ll provide a quick introduction why you should use RxAndroid in your current and next projects.Code: https://github.com/passsy/android-GetReactive﻿.Slides: https://speakerdeck.com/passsy/get-reactive-devoxx.
