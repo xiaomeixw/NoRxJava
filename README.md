@@ -77,6 +77,11 @@ Thinking like a Rxjava library creator,Why we need use RxJava...I will tell you 
 
 35.[RxJava Wiki — Introduction](https://medium.com/@LIP/rxjava-wiki-home-6f6bbc1f40fc#.age5zpk4c):RxJava는 Reactive Extensions의 Java VM 버전 구현이다. Observable sequences를 이용하여 비동기 프로그램과 이벤트-기반 프로그램을 구성하기 위한 라이브러리이다.선언적으로 모든 것이 연속되어 일어나게 조립할 수 있도록 해주는 operator들을 추가하고 데이터/이벤트 sequences를 지원하기 위해 옵저버 패턴을 확장하였다. 그러면서 추상화를 통해 low-level threading, synchronization, thread-safety, concurrent data structures, and non-blocking I/O같은 것들에 대한 걱정은 하지 않도록 하였다.RxJava는 Groovy, Clojure, JRuby, Kotlin 그리고 Scala같은 Java 6 또는 그 이상의 JVM-기반 언어를 지원한다.
 
+36.[Simple way to test asynchronous actions in Android: Service, AsyncTask, Thread, RxJava etc.](https://medium.com/@v.danylo/simple-way-to-test-asynchronous-actions-in-android-service-asynctask-thread-rxjava-etc-d43b0402e005#.v3vjgny9u):Sometimes testing asynchronous actions might be very difficult but in most common cases during Android development it might be done with a very simple technique.If you know basics of concurrency you can test asynchronous operations with a simple wait/notify.
+
+37.[RxJava 短期效用](https://medium.com/cowbear-coder/rxjava-feed-of-rxjava-and-android-1daae2059847#.tvel4ildr):一個 FRP 的實現，透過 FRP(Functional Reactive Programming) 概念。短期效用：有效避免巢狀 callback 增加可讀性以及減少 List<item> 的轉換成本。
+
+
 
 ### 1-2 Video
 
