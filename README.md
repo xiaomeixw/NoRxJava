@@ -467,3 +467,13 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/domsu/compass](https://github.com/domsu/compass)
 1. **rxjava-file** RxJava observables for files including NIO events.  
 [https://github.com/davidmoten/rxjava-file](https://github.com/davidmoten/rxjava-file)
+1. **RxAndroidDemo** Sample app using RxJava and RxAndroid.  
+[https://github.com/alphamu/RxAndroidDemo](https://github.com/alphamu/RxAndroidDemo)
+1. **RxJavaFX** RxJava bindings for JavaFX.  
+[https://github.com/ReactiveX/RxJavaFX](https://github.com/ReactiveX/RxJavaFX)
+1. **RxJava-Threading-Examples** Examples of how to use many different threading operators in RxJava.  
+[https://github.com/GrahamLea/RxJava-Threading-Examples](https://github.com/GrahamLea/RxJava-Threading-Examples)
+1. **rxjava-priority-scheduler** An RxJava scheduler that incorporates priorities in scheduling tasks.  
+[https://github.com/ronshapiro/rxjava-priority-scheduler](https://github.com/ronshapiro/rxjava-priority-scheduler)
+1. **RxJavaDemo** Demos for the useage of Rxjava operators in android app.  
+[https://github.com/Chaoba/RxJavaDemo](https://github.com/Chaoba/RxJavaDemo)
