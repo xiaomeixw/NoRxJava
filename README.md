@@ -1,6 +1,7 @@
 # NoRxJava : Everything about Rxjava
 Thinking like a Rxjava library creator,Why we need use RxJava...I will tell you everything about Rxjava:RxJava Study Resources(Part1)、Rxjava Usage(Part2) and Interpretation of Rxjava Source Code(Part3)...
 
+![](http://i.imgur.com/IeJeTuo.png)
 
 ## Part1 RxJava Study Resources:
 
@@ -60,7 +61,7 @@ Thinking like a Rxjava library creator,Why we need use RxJava...I will tell you 
 
 27.[RX Java and Recursion](https://medium.com/@stevenlow1983/rx-java-and-recursion-719f8ee1977a#.hs9i55gqp):Recently I had what seemed like a tricky problem. I was using akka and wanted to make an http call within the method handling a message. When the http call completed, I wanted the actor to send a message back to the original sender actor. As I was using akka I needed to make the http call asynchronously so as not to block the thread. Seems straight forward enough if I use something like ReactiveX. I can use an async http client and convert a future into an observable. I can then subscribe to that observable, handle the http response, and send a message back to the sender. All lovely and non-blocking.
 
-
+28.[Android app development using the reactive programming paradigm (RxJava)](https://medium.com/@arifnadeem7/step-by-step-android-app-development-using-the-reactive-programming-paradigm-rxjava-aa1c63a66650#.l8gryaqgt):If you have already looked into the likes of RxJava and other ReactiveX libraries; you are likely to agree when I say that reactive programming has a steep learning curve, this learning experience is further impeded by the fact that there aren’t many good tutorials or books on this concept.
 
 ### 1-2 Video
 
