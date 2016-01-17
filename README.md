@@ -8,6 +8,15 @@ When to find RxJava:
 - RxJava: [https://github.com/ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
 - RxAndroid: [https://github.com/ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - RxBinding: [https://github.com/JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding)
+- RxJavaFX: [https://github.com/ReactiveX/RxJavaFX](https://github.com/ReactiveX/RxJavaFX)
+- RxNetty: [https://github.com/ReactiveX/RxNetty](https://github.com/ReactiveX/RxNetty)
+- RxKotlin: [https://github.com/ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin)
+- RxJavaAsyncUtil: [https://github.com/ReactiveX/RxJavaAsyncUtil](https://github.com/ReactiveX/RxJavaAsyncUtil)
+- RxJavaDebug: [https://github.com/ReactiveX/RxJavaDebug](https://github.com/ReactiveX/RxJavaDebug)
+- RxApacheHttp: [https://github.com/ReactiveX/RxApacheHttp](https://github.com/ReactiveX/RxApacheHttp)
+- RxJavaString: [https://github.com/ReactiveX/RxJavaString](https://github.com/ReactiveX/RxJavaString)
+- RxJavaFileUtils: [https://github.com/ReactiveX/RxJavaFileUtils](https://github.com/ReactiveX/RxJavaFileUtils)
+- RxJavaMath: [https://github.com/ReactiveX/RxJavaMath](https://github.com/ReactiveX/RxJavaMath)
 
 ## Part1 RxJava Study Resources:
 
