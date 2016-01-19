@@ -123,6 +123,8 @@ Where to find RxJava:
 
 50.[Monads: Your App as a Function, Part 2](http://mttkay.github.io/blog/2014/01/25/monads-your-app-as-a-function-part-2/):Let me begin by saying that there is no deeper meaning in these laws beyond supporting common sense. I still think it’s worth looking at them because they close the loop to imperative programming, which you might be more familiar with, since especially the second and third laws enable what’s been attributed to monads as being “programmable semicolons” in case you’ve stumbled upon that phrase before.
 
+51.[RxAndroid and Retrofit 2.0](https://medium.com/@ahmedrizwan/rxandroid-and-retrofit-2-0-66dc52725fff#.hnhw6dfp9):Ok, so this isn’t new or anything, but I thought let’s just make a simple tutorial with the new Retrofit 2.0, that should give you (and me) a starting point.This isn’t a tutorial for RxAndroid, so if you don’t know much about it, you should first check out this..
+
 ### 1-2 Video
 
 1.[Get Reactive by Wolfram Rittmeyer/Pascal Welsch](https://www.youtube.com/watch?v=ssC4nX_pP3o):The RxJava hype is still in full swing and almost everything gets Rxified. At least since the stable RxAndroid 1.0 release it’s time to take RxAndroid seriously!In this session you will learn what RxJava is about, how to use it on Android and how RxAndroid can be used to build maintainable Android Apps from networking with Retrofit2 to UI with the new RxBinding and RxLifecycle libraries powered by MVP.If you haven’t had the time to Get Reactive, we’ll provide a quick introduction why you should use RxAndroid in your current and next projects.Code: https://github.com/passsy/android-GetReactive﻿.Slides: https://speakerdeck.com/passsy/get-reactive-devoxx.
