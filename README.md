@@ -290,6 +290,8 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/spirosoik/Android-RxFirebase](https://github.com/spirosoik/Android-RxFirebase)
 1. **RxJavaSamples** 收集了RxJava常见的使用场景.  
 [https://github.com/THEONE10211024/RxJavaSamples](https://github.com/THEONE10211024/RxJavaSamples)
+1. **android_guides** Extensive Open-Source Guides for Android Developers.  
+[https://github.com/codepath/android_guides/wiki/RxJava](https://github.com/codepath/android_guides/wiki/RxJava)
 1. **sqlbrite** A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.  
 [https://github.com/square/sqlbrite](https://github.com/square/sqlbrite)
 1. **storio** Beautiful API for SQLiteDatabase and ContentResolver.  
