@@ -142,6 +142,12 @@ Where to find RxJava:
 
 59.[Advanced RxJava](http://akarnokd.blogspot.jp/):In this final part, I'm going to show how one can implement operators (source and transformative alike). Since the Completable API features no values but only the terminal onError and onCompleted events, there are a way less meaningful operators possible unlike the main Observable class; therefore, most of the examples will feature an existing Completable operator.
 
+60.[詳解RxJava2：Backpressureで流速制御](http://qiita.com/yuya_presto/items/0e95271bc85efe7f768e):謝辞：チームでは本当に自由にRxJavaを使わせてもらっていて、今回の記事の内容も実際にアプリでReactiveな表示更新ロジックを書こうとして習得したものです。この記事ではRxJavaのBackpressureの仕組みについて説明しつつ、Backpressureを使って問題をうまく解決できるパターンを紹介します。深夜テンションで一部お見苦しい点がございますがお許しください。
+
+61.[ReactiveX란 무엇인가?](https://www.evernote.com/shard/s655/sh/ca763c7a-17a9-4b85-ba8d-8eec979d2442/ab38e452d455f654):ReactiveX는 Observer 패턴과, Iterator 패턴, 함수형 프로그래밍의 특성을 이용하여 비동기 구성과 관측 가능한 데이터 스트림 또는 이벤트 스트림을 다루는데 초점을 맞춘 API이다. 실시간 데이터를 다루는것은 빈번하게 발생하며, 실시간 데이터를 다루기 위해 효율적이고, 명확하며, 확장가능한 접근법을 가지는 것은 중요하다. 실시간 데이터를 다루기 위해 Observables와 operator를 사용하여, ReactiveX는 쓰레드 생성과 동시성 문제와 같은 비동기 프래그래밍의 일반적인 관심사를 단순화 하면서 데이터 스트림의 생성과 작용을 위한 구성 가능하고 유연한 API를 제공한다.
+
+62.[Java 8 Stream on Android](https://medium.com/@nicopasso/java-8-stream-on-android-c629e4237d5f#.abvfe8pk7):In this article you’ll learn what Streams are and how to use them in Android development, even if, in theory, you cannot use them in Android development. O_OSince the Java 8 release (march 2014), android developers are struggling to find a way to replicate all (or at least some) of the new awesome patterns provided by Java 8.Unfortunately Android doesn’t support Java 8 yet; Java 7 (v1.7) is supported on the KitKat edition (Android 4.4.+) and above.
+
 ### 1-2 Video
 
 1.[Get Reactive by Wolfram Rittmeyer/Pascal Welsch](https://www.youtube.com/watch?v=ssC4nX_pP3o):The RxJava hype is still in full swing and almost everything gets Rxified. At least since the stable RxAndroid 1.0 release it’s time to take RxAndroid seriously!In this session you will learn what RxJava is about, how to use it on Android and how RxAndroid can be used to build maintainable Android Apps from networking with Retrofit2 to UI with the new RxBinding and RxLifecycle libraries powered by MVP.If you haven’t had the time to Get Reactive, we’ll provide a quick introduction why you should use RxAndroid in your current and next projects.Code: https://github.com/passsy/android-GetReactive﻿.Slides: https://speakerdeck.com/passsy/get-reactive-devoxx.
