@@ -504,3 +504,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/ronshapiro/rxjava-priority-scheduler](https://github.com/ronshapiro/rxjava-priority-scheduler)
 1. **RxJavaDemo** Demos for the useage of Rxjava operators in android app.  
 [https://github.com/Chaoba/RxJavaDemo](https://github.com/Chaoba/RxJavaDemo)
+1. **RxGcm** A reactive wrapper for Android Google Cloud Messaging (aka gcm) to get rid of Service(s) configuration, handling foreground and background notifications depending on application state.  
+[https://github.com/VictorAlbertos/RxGcm](https://github.com/VictorAlbertos/RxGcm)
