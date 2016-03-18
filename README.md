@@ -508,3 +508,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/VictorAlbertos/RxGcm](https://github.com/VictorAlbertos/RxGcm)
 1. **RxJavaApp** 一个用于学习RxJava操作符的APP.  
 [https://github.com/jiang111/RxJavaApp](https://github.com/jiang111/RxJavaApp)
+1. **RxAndroidAudio** Maybe the most robust Android Audio encapsulation library, with part Rx support..  
+[https://github.com/Piasy/RxAndroidAudio](https://github.com/Piasy/RxAndroidAudio)
