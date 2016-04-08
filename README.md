@@ -512,3 +512,7 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/Piasy/RxAndroidAudio](https://github.com/Piasy/RxAndroidAudio)
 1. **RxSealedUnions** Tagged Unions for the RxJava aesthete..  
 [https://github.com/pakoito/RxSealedUnions](https://github.com/pakoito/RxSealedUnions)
+1. **RxWear** Reactive Wearable API Library for Android and RxJava..  
+[https://github.com/patloew/RxWear](https://github.com/patloew/RxWear)
+1. **rxeither** Either type for RxJava..  
+[https://github.com/eleventigers/rxeither](https://github.com/eleventigers/rxeither)
