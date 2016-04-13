@@ -516,3 +516,7 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/patloew/RxWear](https://github.com/patloew/RxWear)
 1. **rxeither** Either type for RxJava..  
 [https://github.com/eleventigers/rxeither](https://github.com/eleventigers/rxeither)
+1. **redex** ReDex is an Android bytecode (dex) optimizer originally developed at Facebook. It provides a framework for reading, writing, and analyzing .dex files, and a set of optimization passes that use this framework to improve the bytecode. An APK optimized by ReDex should be smaller and faster than its source...  
+[https://github.com/facebook/redex](https://github.com/facebook/redex)
+1. **RxCurrying** Simple currying for FuncN and ActionN on RxJava..  
+[https://github.com/pakoito/RxCurrying](https://github.com/pakoito/RxCurrying)
