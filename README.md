@@ -524,3 +524,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/pakoito/RxActions](https://github.com/pakoito/RxActions)
 1. **RxDrive** RxJava wrapper for Google Drive Android API..  
 [https://github.com/francescocervone/RxDrive](https://github.com/francescocervone/RxDrive)
+1. **RxAppFocus** A tiny library which makes it simple to monitor visibility of your Android app..  
+[https://github.com/gramboid/RxAppFocus](https://github.com/gramboid/RxAppFocus)
