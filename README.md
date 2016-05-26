@@ -536,3 +536,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/francescocervone/RxDrive](https://github.com/francescocervone/RxDrive)
 1. **RxAppFocus** A tiny library which makes it simple to monitor visibility of your Android app..  
 [https://github.com/gramboid/RxAppFocus](https://github.com/gramboid/RxAppFocus)
+1. **RxSocialConnect-Android** OAuth RxJava extension for Android..  
+[https://github.com/FuckBoilerplate/RxSocialConnect-Android](https://github.com/FuckBoilerplate/RxSocialConnect-Android)
