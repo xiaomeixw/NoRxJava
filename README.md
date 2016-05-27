@@ -19,9 +19,9 @@ Where to find RxJava:
 - RxJavaFileUtils: [https://github.com/ReactiveX/RxJavaFileUtils](https://github.com/ReactiveX/RxJavaFileUtils)
 - RxJavaMath: [https://github.com/ReactiveX/RxJavaMath](https://github.com/ReactiveX/RxJavaMath)
 
-Where to find google's Reactive Programming for Android:
+Where to find Google's Reactive Programming for Android:
 
-- agera: [https://github.com/google/agera](https://github.com/google/agera)
+- Agera: [https://github.com/google/agera](https://github.com/google/agera)
 
 ## Part1 RxJava Study Resources:
 
