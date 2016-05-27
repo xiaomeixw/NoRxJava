@@ -19,6 +19,10 @@ Where to find RxJava:
 - RxJavaFileUtils: [https://github.com/ReactiveX/RxJavaFileUtils](https://github.com/ReactiveX/RxJavaFileUtils)
 - RxJavaMath: [https://github.com/ReactiveX/RxJavaMath](https://github.com/ReactiveX/RxJavaMath)
 
+Where to find google's Reactive Programming for Android:
+
+- agera: [https://github.com/google/agera](https://github.com/google/agera)
+
 ## Part1 RxJava Study Resources:
 
 ### 1-1 Article
@@ -538,3 +542,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/gramboid/RxAppFocus](https://github.com/gramboid/RxAppFocus)
 1. **RxSocialConnect-Android** OAuth RxJava extension for Android..  
 [https://github.com/FuckBoilerplate/RxSocialConnect-Android](https://github.com/FuckBoilerplate/RxSocialConnect-Android)
+1. **RxAgera** Convert between RxJava and Agera reactive base types..  
+[https://github.com/akarnokd/RxAgera](https://github.com/akarnokd/RxAgera)
