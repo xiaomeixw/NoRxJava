@@ -19,6 +19,8 @@ Where to find RxJava:
 - RxJavaFileUtils: [https://github.com/ReactiveX/RxJavaFileUtils](https://github.com/ReactiveX/RxJavaFileUtils)
 - RxJavaMath: [https://github.com/ReactiveX/RxJavaMath](https://github.com/ReactiveX/RxJavaMath)
 
+![](https://raw.githubusercontent.com/google/agera/master/doc/images/agera.png)
+
 Where to find Google's Reactive Programming for Android:
 
 - Agera: [https://github.com/google/agera](https://github.com/google/agera)
@@ -544,3 +546,7 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/FuckBoilerplate/RxSocialConnect-Android](https://github.com/FuckBoilerplate/RxSocialConnect-Android)
 1. **RxAgera** Convert between RxJava and Agera reactive base types..  
 [https://github.com/akarnokd/RxAgera](https://github.com/akarnokd/RxAgera)
+1. **rxassertions** Nice AssertJ assertions for RxJava..  
+[https://github.com/ubiratansoares/rxassertions](https://github.com/ubiratansoares/rxassertions)
+1. **Reactive-Billing** Lightweight reactive wrapper around In App Billing API v3 for Android..  
+[https://github.com/lukaspili/Reactive-Billing](https://github.com/lukaspili/Reactive-Billing)
