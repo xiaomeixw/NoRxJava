@@ -57,7 +57,7 @@ public class NetRequest {
                     String current_user_authorizations_html_url=jsonObject.getString("current_user_authorizations_html_url");
                     String code_search_url=jsonObject.getString("code_search_url");
                     NetDomain netDomain = new NetDomain(current_user_url, current_user_authorizations_html_url, code_search_url);
-                    mNetCallback.setFruits(netDomain);
+                    mNetCallback.setDomain(netDomain);
                 } catch (JSONException e) {
                     e.printStackTrace();
                 }
@@ -68,7 +68,7 @@ public class NetRequest {
 
     public interface NetCallback{
         void setError();
-        void setFruits(NetDomain domain );
+        void setDomain(NetDomain domain );
     }
 
 

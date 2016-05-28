@@ -29,7 +29,7 @@ public class NetRepository extends BaseObservable implements Supplier<NetDomain>
     }
 
     @Override
-    public void setFruits(NetDomain domain) {
+    public void setDomain(NetDomain domain) {
         this.domain=domain;
         dispatchUpdate();
     }
