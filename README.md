@@ -19,6 +19,8 @@ Where to find RxJava:
 - RxJavaFileUtils: [https://github.com/ReactiveX/RxJavaFileUtils](https://github.com/ReactiveX/RxJavaFileUtils)
 - RxJavaMath: [https://github.com/ReactiveX/RxJavaMath](https://github.com/ReactiveX/RxJavaMath)
 
+![](https://raw.githubusercontent.com/google/agera/master/doc/images/agera.png)
+
 Where to find Google's Reactive Programming for Android:
 
 - Agera: [https://github.com/google/agera](https://github.com/google/agera)
