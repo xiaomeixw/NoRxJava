@@ -1,4 +1,4 @@
-package sabria.agera.demo;
+package sabria.agera.demo.basic;
 
 import com.google.android.agera.BaseObservable;
 import com.google.android.agera.UpdateDispatcher;

@@ -1,4 +1,4 @@
-package sabria.agera.demo;
+package sabria.agera.demo.basic;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -8,6 +8,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import com.google.android.agera.Updatable;
+
+import sabria.agera.demo.R;
 
 public class MainActivity extends Activity implements TextWatcher, Updatable {
 
