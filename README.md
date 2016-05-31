@@ -550,3 +550,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/ubiratansoares/rxassertions](https://github.com/ubiratansoares/rxassertions)
 1. **Reactive-Billing** Lightweight reactive wrapper around In App Billing API v3 for Android..  
 [https://github.com/lukaspili/Reactive-Billing](https://github.com/lukaspili/Reactive-Billing)
+1. **RxSensor** Simple reactive wrapper for Android sensors..  
+[https://github.com/wandup/RxSensor](https://github.com/wandup/RxSensor)
