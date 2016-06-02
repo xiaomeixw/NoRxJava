@@ -21,6 +21,30 @@ Where to find RxJava:
 
 ![](https://raw.githubusercontent.com/google/agera/master/doc/images/agera.png)
 
+#### Version 2.x
+
+Version 2.x and 1.x will live side-by-side for several years. They will have different namespaces (io.reactivex vs rx). 
+
+The purpose for 2.x is:
+
+- leverage Java 8+ features
+- [Reactive Streams](http://www.reactive-streams.org) compatibility
+- performance gains through design changes learned through the 1.x cycle
+
+#### Version 1.x
+
+- Zero Dependencies
+- < 800KB Jar
+- Java 6+ & [Android](https://github.com/ReactiveX/RxAndroid) 2.3+
+- Java 8 lambda support
+- Polyglot ([Scala](https://github.com/ReactiveX/RxScala), [Groovy](https://github.com/ReactiveX/RxGroovy), [Clojure](https://github.com/ReactiveX/RxClojure) and [Kotlin](https://github.com/ReactiveX/RxKotlin))
+- Non-opinionated about source of concurrency (threads, pools, event loops, fibers, actors, etc)
+- Async or synchronous execution
+- Virtual time and schedulers for parameterized concurrency
+
+Learn more about RxJava on the <a href="https://github.com/ReactiveX/RxJava/wiki">Wiki Home</a>.
+
+
 Where to find Google's Reactive Programming for Android:
 
 - Agera: [https://github.com/google/agera](https://github.com/google/agera)
