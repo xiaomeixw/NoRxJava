@@ -554,3 +554,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/wandup/RxSensor](https://github.com/wandup/RxSensor)
 1. **RxImagePicker** Android. Pick image from camera or gallery using RxJava..  
 [https://github.com/MLSDev/RxImagePicker](https://github.com/MLSDev/RxImagePicker)
+1. **RxJavaJoins** Joins operators for RxJava..  
+[https://github.com/ReactiveX/RxJavaJoins](https://github.com/ReactiveX/RxJavaJoins)
