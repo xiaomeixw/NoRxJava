@@ -5,7 +5,8 @@ Thinking like a Rxjava library creator,Why we need use RxJava...I will tell you 
 
 Where to find RxJava:
 
-- RxJava: [https://github.com/ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
+- RxJava1.x: [https://github.com/ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
+- RxJava2.0: [https://github.com/ReactiveX/RxJava/tree/2.x](https://github.com/ReactiveX/RxJava/tree/2.x)
 - RxAndroid: [https://github.com/ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - Retrolambda: [https://github.com/orfjackal/retrolambda](https://github.com/orfjackal/retrolambda)
 - RxBinding: [https://github.com/JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding)
@@ -18,8 +19,6 @@ Where to find RxJava:
 - RxJavaString: [https://github.com/ReactiveX/RxJavaString](https://github.com/ReactiveX/RxJavaString)
 - RxJavaFileUtils: [https://github.com/ReactiveX/RxJavaFileUtils](https://github.com/ReactiveX/RxJavaFileUtils)
 - RxJavaMath: [https://github.com/ReactiveX/RxJavaMath](https://github.com/ReactiveX/RxJavaMath)
-
-![](https://raw.githubusercontent.com/google/agera/master/doc/images/agera.png)
 
 #### Version 2.x
 
@@ -44,6 +43,9 @@ The purpose for 2.x is:
 
 Learn more about RxJava on the <a href="https://github.com/ReactiveX/RxJava/wiki">Wiki Home</a>.
 
+
+
+![](https://raw.githubusercontent.com/google/agera/master/doc/images/agera.png)
 
 Where to find Google's Reactive Programming for Android:
 
