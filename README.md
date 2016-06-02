@@ -552,3 +552,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/lukaspili/Reactive-Billing](https://github.com/lukaspili/Reactive-Billing)
 1. **RxSensor** Simple reactive wrapper for Android sensors..  
 [https://github.com/wandup/RxSensor](https://github.com/wandup/RxSensor)
+1. **RxImagePicker** Android. Pick image from camera or gallery using RxJava..  
+[https://github.com/MLSDev/RxImagePicker](https://github.com/MLSDev/RxImagePicker)
