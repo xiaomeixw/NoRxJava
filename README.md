@@ -582,3 +582,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/MLSDev/RxImagePicker](https://github.com/MLSDev/RxImagePicker)
 1. **RxJavaJoins** Joins operators for RxJava..  
 [https://github.com/ReactiveX/RxJavaJoins](https://github.com/ReactiveX/RxJavaJoins)
+1. **ObservableScheduler** A simple Rx for study..  
+[https://github.com/jiang111/ObservableScheduler](https://github.com/jiang111/ObservableScheduler)
