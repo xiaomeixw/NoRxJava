@@ -586,3 +586,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/jiang111/ObservableScheduler](https://github.com/jiang111/ObservableScheduler)
 1. **rxjava-mvp-giphy** Showcase of RxJava used with MVP and some other popular android libraries..  
 [https://github.com/emmaguy/rxjava-mvp-giphy](https://github.com/emmaguy/rxjava-mvp-giphy)
+1. **RxActivityResult** A reactive-tiny-badass-vindictive library to break with the OnActivityResult implementation as it breaks the observables chain..  
+[https://github.com/VictorAlbertos/RxActivityResult](https://github.com/VictorAlbertos/RxActivityResult)
