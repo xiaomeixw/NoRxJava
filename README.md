@@ -584,3 +584,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/ReactiveX/RxJavaJoins](https://github.com/ReactiveX/RxJavaJoins)
 1. **ObservableScheduler** A simple Rx for study..  
 [https://github.com/jiang111/ObservableScheduler](https://github.com/jiang111/ObservableScheduler)
+1. **rxjava-mvp-giphy** Showcase of RxJava used with MVP and some other popular android libraries..  
+[https://github.com/emmaguy/rxjava-mvp-giphy](https://github.com/emmaguy/rxjava-mvp-giphy)
