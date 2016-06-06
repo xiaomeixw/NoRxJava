@@ -588,3 +588,7 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/emmaguy/rxjava-mvp-giphy](https://github.com/emmaguy/rxjava-mvp-giphy)
 1. **RxActivityResult** A reactive-tiny-badass-vindictive library to break with the OnActivityResult implementation as it breaks the observables chain..  
 [https://github.com/VictorAlbertos/RxActivityResult](https://github.com/VictorAlbertos/RxActivityResult)
+1. **RxFit** Reactive Fitness API Library for Android and RxJava..  
+[https://github.com/patloew/RxFit](https://github.com/patloew/RxFit)
+1. **rxandroidexamples** A set of examples for using RxJava in Android..  
+[https://github.com/klnusbaum/rxandroidexamples](https://github.com/klnusbaum/rxandroidexamples)
