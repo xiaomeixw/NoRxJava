@@ -592,3 +592,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/patloew/RxFit](https://github.com/patloew/RxFit)
 1. **rxandroidexamples** A set of examples for using RxJava in Android..  
 [https://github.com/klnusbaum/rxandroidexamples](https://github.com/klnusbaum/rxandroidexamples)
+1. **RxValidator** Easy Android form validation in Rx way..  
+[https://github.com/phajduk/RxValidator](https://github.com/phajduk/RxValidator)
