@@ -602,3 +602,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/Polidea/RxAndroidBle](https://github.com/Polidea/RxAndroidBle)
 1. **SuperMvp** A RX app for explore MVP,Material+Rx+Retrofit+Glide+leakcanary+butterknife..  
 [https://github.com/liuyanggithub/SuperMvp](https://github.com/liuyanggithub/SuperMvp)
+1. **AnDevCon-RxPatterns** Patterns used by my AnDevCon talk "Reactive Android Patterns"..  
+[https://github.com/colintheshots/AnDevCon-RxPatterns](https://github.com/colintheshots/AnDevCon-RxPatterns)
