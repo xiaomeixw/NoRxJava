@@ -598,5 +598,7 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/afeozzz/RxLinkClawler](https://github.com/afeozzz/RxLinkClawler)
 1. **RxZhihuPager** A RX app for zhihu..  
 [https://github.com/Runpop/RxZhihuPager](https://github.com/Runpop/RxZhihuPager)
-1. **RxAndroidBle** RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches. It is backed by RxJava, implementing complicated APIs as handy reactive observables. ..  
+1. **RxAndroidBle** RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches. It is backed by RxJava, implementing complicated APIs as handy reactive observables..  
 [https://github.com/Polidea/RxAndroidBle](https://github.com/Polidea/RxAndroidBle)
+1. **SuperMvp** A RX app for explore MVP,Material+Rx+Retrofit+Glide+leakcanary+butterknife..  
+[https://github.com/liuyanggithub/SuperMvp](https://github.com/liuyanggithub/SuperMvp)
