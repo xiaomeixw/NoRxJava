@@ -610,3 +610,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/yydcdut/RxMarkdown](https://github.com/yydcdut/RxMarkdown)
 1. **RxViper** Android micro framework for developing apps based on clean VIPER architecture..  
 [https://github.com/RxViper/RxViper](https://github.com/RxViper/RxViper)
+1. **RxRecyclerAdapter** Rx based RecyclerView Adapter..  
+[https://github.com/ahmedrizwan/RxRecyclerAdapter](https://github.com/ahmedrizwan/RxRecyclerAdapter)
