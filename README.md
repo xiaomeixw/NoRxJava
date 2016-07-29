@@ -612,3 +612,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/RxViper/RxViper](https://github.com/RxViper/RxViper)
 1. **RxRecyclerAdapter** Rx based RecyclerView Adapter..  
 [https://github.com/ahmedrizwan/RxRecyclerAdapter](https://github.com/ahmedrizwan/RxRecyclerAdapter)
+1. **RxDebounceClick** A simple library to prevent debounce click on Android widget，convert into RxJava..  
+[https://github.com/SmartDengg/RxDebounceClick](https://github.com/SmartDengg/RxDebounceClick)
