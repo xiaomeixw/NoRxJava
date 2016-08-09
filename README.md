@@ -614,3 +614,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/ahmedrizwan/RxRecyclerAdapter](https://github.com/ahmedrizwan/RxRecyclerAdapter)
 1. **RxDebounceClick** A simple library to prevent debounce click on Android widget，convert into RxJava..  
 [https://github.com/SmartDengg/RxDebounceClick](https://github.com/SmartDengg/RxDebounceClick)
+1. **RxComboDetector** Android view click combo detector with Rx..  
+[https://github.com/Piasy/RxComboDetector](https://github.com/Piasy/RxComboDetector)
