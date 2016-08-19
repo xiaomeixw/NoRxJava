@@ -616,3 +616,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/SmartDengg/RxDebounceClick](https://github.com/SmartDengg/RxDebounceClick)
 1. **RxComboDetector** Android view click combo detector with Rx..  
 [https://github.com/Piasy/RxComboDetector](https://github.com/Piasy/RxComboDetector)
+1. **RxJavaV1V2Adapter** Adapter between RxJava v1 and v2..  
+[https://github.com/artem-zinnatullin/RxJavaV1V2Adapter](https://github.com/artem-zinnatullin/RxJavaV1V2Adapter)
