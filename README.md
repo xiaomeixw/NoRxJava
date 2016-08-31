@@ -192,6 +192,8 @@ Where to find Google's Reactive Programming for Android:
 
 68.[2 minute introduction to Rx](https://medium.com/@andrestaltz/2-minute-introduction-to-rx-24c8ca793877#.9rvqu5wyk):You've probably seen this tutorial I wrote some time ago. Too long? Alright. Rx is not that hard, you could have invented it yourself. Keep reading.
 
+69.[Howdy RxJava](https://medium.com/fuzz/howdy-rxjava-8f40fef88181#.ql2b0jrgu):During my research on Reactive Programming, almost every article I’ve found, begins with the notion that it is difficult to learn. Finding articles focused on people with zero or little knowledge of reactive programming has been difficult. This article attempts to demystify the fundamentals of reactive programming for newcomers — using RxJava on android.
+
 ### 1-2 Video
 
 1.[Get Reactive by Wolfram Rittmeyer/Pascal Welsch](https://www.youtube.com/watch?v=ssC4nX_pP3o):The RxJava hype is still in full swing and almost everything gets Rxified. At least since the stable RxAndroid 1.0 release it’s time to take RxAndroid seriously!In this session you will learn what RxJava is about, how to use it on Android and how RxAndroid can be used to build maintainable Android Apps from networking with Retrofit2 to UI with the new RxBinding and RxLifecycle libraries powered by MVP.If you haven’t had the time to Get Reactive, we’ll provide a quick introduction why you should use RxAndroid in your current and next projects.Code: https://github.com/passsy/android-GetReactive﻿.Slides: https://speakerdeck.com/passsy/get-reactive-devoxx.
