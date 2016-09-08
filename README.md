@@ -194,6 +194,8 @@ Where to find Google's Reactive Programming for Android:
 
 69.[Howdy RxJava](https://medium.com/fuzz/howdy-rxjava-8f40fef88181#.ql2b0jrgu):During my research on Reactive Programming, almost every article I’ve found, begins with the notion that it is difficult to learn. Finding articles focused on people with zero or little knowledge of reactive programming has been difficult. This article attempts to demystify the fundamentals of reactive programming for newcomers — using RxJava on android.
 
+69.[Converting callback async calls to RxJava](https://medium.com/we-are-yammer/converting-callback-async-calls-to-rxjava-ebc68bde5831#.i0zi7lg5v):Since we started using RxJava in our Yammer Android app we’ve often encountered APIs that don’t follow its reactive model, requiring us to do some conversion work to integrate them with the rest of our RxJava Observable chains.
+
 ### 1-2 Video
 
 1.[Get Reactive by Wolfram Rittmeyer/Pascal Welsch](https://www.youtube.com/watch?v=ssC4nX_pP3o):The RxJava hype is still in full swing and almost everything gets Rxified. At least since the stable RxAndroid 1.0 release it’s time to take RxAndroid seriously!In this session you will learn what RxJava is about, how to use it on Android and how RxAndroid can be used to build maintainable Android Apps from networking with Retrofit2 to UI with the new RxBinding and RxLifecycle libraries powered by MVP.If you haven’t had the time to Get Reactive, we’ll provide a quick introduction why you should use RxAndroid in your current and next projects.Code: https://github.com/passsy/android-GetReactive﻿.Slides: https://speakerdeck.com/passsy/get-reactive-devoxx.
