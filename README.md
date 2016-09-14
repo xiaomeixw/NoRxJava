@@ -196,6 +196,8 @@ Where to find Google's Reactive Programming for Android:
 
 69.[Converting callback async calls to RxJava](https://medium.com/we-are-yammer/converting-callback-async-calls-to-rxjava-ebc68bde5831#.i0zi7lg5v):Since we started using RxJava in our Yammer Android app we’ve often encountered APIs that don’t follow its reactive model, requiring us to do some conversion work to integrate them with the rest of our RxJava Observable chains.
 
+70.[【RxJava && Agera】从源码简要分析基本调用流程](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=2649796857&idx=1&sn=ed8325aeddac7fd2bd81a0717c010e98&scene=1&srcid=0817o3Xzkx4ILR6FKaR1M9LX#rd):相信很多做Android或是Java研发的同学对RxJava应该都早有耳闻了，尤其是在Android开发的圈子里，RxJava渐渐开始广为流行。同样有很多同学已经开始在自己的项目中使用RxJava。它能够帮助我们在处理异步事件时能够省去那些复杂而繁琐的代码，尤其是当某些场景逻辑中回调中嵌入回调时，使用RxJava依旧能够让我们的代码保持极高的可读性与简洁性。不仅如此，这种基于异步数据流概念的编程模式事实上同样也能广泛运用在移动端这种包括网络调用、用户触摸输入和系统弹框等在内的多种响应驱动的场景。那么现在，就让我们一起分析一下RxJava的响应流程吧.
+
 ### 1-2 Video
 
 1.[Get Reactive by Wolfram Rittmeyer/Pascal Welsch](https://www.youtube.com/watch?v=ssC4nX_pP3o):The RxJava hype is still in full swing and almost everything gets Rxified. At least since the stable RxAndroid 1.0 release it’s time to take RxAndroid seriously!In this session you will learn what RxJava is about, how to use it on Android and how RxAndroid can be used to build maintainable Android Apps from networking with Retrofit2 to UI with the new RxBinding and RxLifecycle libraries powered by MVP.If you haven’t had the time to Get Reactive, we’ll provide a quick introduction why you should use RxAndroid in your current and next projects.Code: https://github.com/passsy/android-GetReactive﻿.Slides: https://speakerdeck.com/passsy/get-reactive-devoxx.
