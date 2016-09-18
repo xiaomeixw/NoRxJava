@@ -628,3 +628,6 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/Piasy/RxComboDetector](https://github.com/Piasy/RxComboDetector)
 1. **RxJavaV1V2Adapter** Adapter between RxJava v1 and v2..  
 [https://github.com/artem-zinnatullin/RxJavaV1V2Adapter](https://github.com/artem-zinnatullin/RxJavaV1V2Adapter)
+1. **RxJava2-Android-Samples** RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android.  
+[https://github.com/amitshekhariitbhu/RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples)
+
