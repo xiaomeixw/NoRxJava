@@ -198,7 +198,7 @@ Where to find Google's Reactive Programming for Android:
 
 70.[【RxJava && Agera】从源码简要分析基本调用流程](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=2649796857&idx=1&sn=ed8325aeddac7fd2bd81a0717c010e98&scene=1&srcid=0817o3Xzkx4ILR6FKaR1M9LX#rd):相信很多做Android或是Java研发的同学对RxJava应该都早有耳闻了，尤其是在Android开发的圈子里，RxJava渐渐开始广为流行。同样有很多同学已经开始在自己的项目中使用RxJava。它能够帮助我们在处理异步事件时能够省去那些复杂而繁琐的代码，尤其是当某些场景逻辑中回调中嵌入回调时，使用RxJava依旧能够让我们的代码保持极高的可读性与简洁性。不仅如此，这种基于异步数据流概念的编程模式事实上同样也能广泛运用在移动端这种包括网络调用、用户触摸输入和系统弹框等在内的多种响应驱动的场景。那么现在，就让我们一起分析一下RxJava的响应流程吧.
 
-70.[use Rxjava instead of Event Bus libraries](https://medium.com/mobiwise-blog/use-rxjava-instead-of-event-bus-libraries-aa78b5023097#.o289efgou):In Android community, everyone is talking about RxJava and why we should use RxJava in Android projects. After start implementing RxJava in our Android application, we noticed that we don’t need Otto(or any other event bus libraries) implemented in our code base. In this blog post, I am going to show how we got rid of Otto in our code base, start using RxJava instead.
+71.[use Rxjava instead of Event Bus libraries](https://medium.com/mobiwise-blog/use-rxjava-instead-of-event-bus-libraries-aa78b5023097#.o289efgou):In Android community, everyone is talking about RxJava and why we should use RxJava in Android projects. After start implementing RxJava in our Android application, we noticed that we don’t need Otto(or any other event bus libraries) implemented in our code base. In this blog post, I am going to show how we got rid of Otto in our code base, start using RxJava instead.
 
 ### 1-2 Video
 
