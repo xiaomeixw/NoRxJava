@@ -208,6 +208,8 @@ Where to find Google's Reactive Programming for Android:
 
 75.[RxJava2: An Early Preview](https://medium.com/@theMikhail/rxjava2-an-early-preview-5b05de46b07#.fzdlntva7):As an avid RxJava user I’ve been following the development of RxJava2 which just hit its first Release Candidate. Here are some of the most interesting updates and additions to the library and what they mean for the developer community.
 
+76.[Android animations powered by RxJava](https://pspdfkit.com/blog/2016/android-animations-powered-by-rx-java/):Animating objects in Android is seemingly easy, especially using ViewPropertyAnimator which provides out-of-the-box solutions and easy-to-construct view property animations. Add RxJava to the mix and you have a very powerful tool for chaining animations with other animations, random actions, etc.
+
 ### 1-2 Video
 
 1.[Get Reactive by Wolfram Rittmeyer/Pascal Welsch](https://www.youtube.com/watch?v=ssC4nX_pP3o):The RxJava hype is still in full swing and almost everything gets Rxified. At least since the stable RxAndroid 1.0 release it’s time to take RxAndroid seriously!In this session you will learn what RxJava is about, how to use it on Android and how RxAndroid can be used to build maintainable Android Apps from networking with Retrofit2 to UI with the new RxBinding and RxLifecycle libraries powered by MVP.If you haven’t had the time to Get Reactive, we’ll provide a quick introduction why you should use RxAndroid in your current and next projects.Code: https://github.com/passsy/android-GetReactive﻿.Slides: https://speakerdeck.com/passsy/get-reactive-devoxx.
