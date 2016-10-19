@@ -642,4 +642,6 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/artem-zinnatullin/RxJavaV1V2Adapter](https://github.com/artem-zinnatullin/RxJavaV1V2Adapter)
 1. **RxJava2-Android-Samples** RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android.  
 [https://github.com/amitshekhariitbhu/RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples)
+1. **RxIAPv3** Android In-App Billing Library which provides several Rx Methods for Purchasing, Consuming and Listing Products.  
+[https://github.com/pavlospt/RxIAPv3](https://github.com/pavlospt/RxIAPv3)
 
