@@ -644,4 +644,6 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/amitshekhariitbhu/RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples)
 1. **RxIAPv3** Android In-App Billing Library which provides several Rx Methods for Purchasing, Consuming and Listing Products.  
 [https://github.com/pavlospt/RxIAPv3](https://github.com/pavlospt/RxIAPv3)
+1. **Elephant** Elephant is PHPHub Community Android unofficial client, base on Material Design + MVP+RxJava+Retrofit.  
+[https://github.com/Freelander/Elephant](https://github.com/Freelander/Elephant)
 
