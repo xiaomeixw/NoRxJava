@@ -212,6 +212,9 @@ Where to find Google's Reactive Programming for Android:
 
 77.[RxJava’s Side Effect Methods](http://www.grokkingandroid.com/rxjavas-side-effect-methods/):RxJava’s Observable class has plenty of methods that can be used to transform the stream of emitted items to the kind of data that you need. Those methods are at the very core of RxJava and form a big part of it’s attraction.But there are other methods, that do not change the stream of items in any way – I call those methods side effect methods.
 
+78.[What's different in 2.0](https://github.com/ReactiveX/RxJava/wiki/What's-different-in-2.0):RxJava 2.0 has been completely rewritten from scratch on top of the Reactive-Streams specification. The specification itself has evolved out of RxJava 1.x and provides a common baseline for reactive systems and libraries.Because Reactive-Streams has a different architecture, it mandates changes to some well known RxJava types. This wiki page attempts to summarize what has changed and describes how to rewrite 1.x code into 2.x code.
+
+
 ### 1-2 Video
 
 1.[Get Reactive by Wolfram Rittmeyer/Pascal Welsch](https://www.youtube.com/watch?v=ssC4nX_pP3o):The RxJava hype is still in full swing and almost everything gets Rxified. At least since the stable RxAndroid 1.0 release it’s time to take RxAndroid seriously!In this session you will learn what RxJava is about, how to use it on Android and how RxAndroid can be used to build maintainable Android Apps from networking with Retrofit2 to UI with the new RxBinding and RxLifecycle libraries powered by MVP.If you haven’t had the time to Get Reactive, we’ll provide a quick introduction why you should use RxAndroid in your current and next projects.Code: https://github.com/passsy/android-GetReactive﻿.Slides: https://speakerdeck.com/passsy/get-reactive-devoxx.
