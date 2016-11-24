@@ -301,6 +301,9 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 
 40.[All Video:Lambdas on Android: 웨비나 - RxAndroid ](https://www.youtube.com/watch?v=fBFHqJDLn9c&list=PLwA8jrpzf_Ccy_WsWAGZ0cz5oDu0xaWcg&index=2)by bs sin  :RxAndroid.
 
+41.[Learning Rx by example](https://vimeo.com/190922794)by Øredev Conference.
+
+
 
 ### 1-3 Library
 1. **MovieGuide** An Android app that showcases the MVP pattern and RxJava.  
