@@ -214,6 +214,8 @@ Where to find Google's Reactive Programming for Android:
 
 78.[What's different in 2.0](https://github.com/ReactiveX/RxJava/wiki/What's-different-in-2.0):RxJava 2.0 has been completely rewritten from scratch on top of the Reactive-Streams specification. The specification itself has evolved out of RxJava 1.x and provides a common baseline for reactive systems and libraries.Because Reactive-Streams has a different architecture, it mandates changes to some well known RxJava types. This wiki page attempts to summarize what has changed and describes how to rewrite 1.x code into 2.x code.
 
+79.[Testing asynchronous RxJava code using Mockito](https://medium.com/@fabioCollini/testing-asynchronous-rxjava-code-using-mockito-8ad831a16877#.qudsmx4nk):RxJava is used in many Android applications to manage background tasks, in this post will see how to test this code using Mockito and some RxJava utility classes. The example is written using RxJava 2, the same concepts are available also in RxJava 1 (in the demo project you can find both versions of the same example).
+
 
 ### 1-2 Video
 
