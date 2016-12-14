@@ -305,7 +305,7 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 
 41.[Learning Rx by example](https://vimeo.com/190922794)by Øredev Conference.
 
-
+42.[Exploring RxJava 2 for Android](https://realm.io/news/gotocph-jake-wharton-exploring-rxjava2-android/)by Jake Wharton on Nov 30 2016.
 
 ### 1-3 Library
 1. **MovieGuide** An Android app that showcases the MVP pattern and RxJava.  
