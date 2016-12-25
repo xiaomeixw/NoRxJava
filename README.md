@@ -656,3 +656,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/Freelander/Elephant](https://github.com/Freelander/Elephant)
 1. **RxDownload** The download tool based on RxJava . Support multi-threaded download and breakpoint download, intelligent judge whether to support multi-threaded download and breakpoint download.  
 [https://github.com/ssseasonnn/RxDownload](https://github.com/ssseasonnn/RxDownload)
+1. **RxNearby** Nearby handling APIs for Android Apps using RxJava.  
+[https://github.com/hkurokawa/RxNearby](https://github.com/hkurokawa/RxNearby)
