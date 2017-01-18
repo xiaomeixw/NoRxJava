@@ -216,6 +216,8 @@ Where to find Google's Reactive Programming for Android:
 
 79.[Testing asynchronous RxJava code using Mockito](https://medium.com/@fabioCollini/testing-asynchronous-rxjava-code-using-mockito-8ad831a16877#.qudsmx4nk):RxJava is used in many Android applications to manage background tasks, in this post will see how to test this code using Mockito and some RxJava utility classes. The example is written using RxJava 2, the same concepts are available also in RxJava 1 (in the demo project you can find both versions of the same example).
 
+80.[RxAndroid Tutorial](https://www.raywenderlich.com/141980/rxandroid-tutorial):Reactive programming is not just another API. It’s a whole new paradigm and a very useful one. RxJava is a reactive implementation used on Android. Android is a perfect place to start your exploration of the reactive world. It’s made even easier with RxAndroid, a library that wraps asynchronous UI events to be more RxJava like.
+
 
 ### 1-2 Video
 
