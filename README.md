@@ -218,6 +218,8 @@ Where to find Google's Reactive Programming for Android:
 
 80.[RxAndroid Tutorial](https://www.raywenderlich.com/141980/rxandroid-tutorial):Reactive programming is not just another API. It’s a whole new paradigm and a very useful one. RxJava is a reactive implementation used on Android. Android is a perfect place to start your exploration of the reactive world. It’s made even easier with RxAndroid, a library that wraps asynchronous UI events to be more RxJava like.
 
+81.[Practical challenges for RxJava learners](https://medium.com/@sergii/practical-challenges-for-rxjava-learners-1821c454de9#.sn4x6mmux):RxJava is a valuable part of Java developer toolset and #1 language improvement framework for Android developers. Many of us want to learn it better, read some blogs and sources, but often miss practice to consolidate collected knowledge. Below I suggest a way to challenge yourself with coding tasks and improve practical RxJava skills.
+
 
 ### 1-2 Video
 
