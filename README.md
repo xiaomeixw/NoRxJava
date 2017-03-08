@@ -220,6 +220,7 @@ Where to find Google's Reactive Programming for Android:
 
 81.[Practical challenges for RxJava learners](https://medium.com/@sergii/practical-challenges-for-rxjava-learners-1821c454de9#.sn4x6mmux):RxJava is a valuable part of Java developer toolset and #1 language improvement framework for Android developers. Many of us want to learn it better, read some blogs and sources, but often miss practice to consolidate collected knowledge. Below I suggest a way to challenge yourself with coding tasks and improve practical RxJava skills.
 
+82.[Testing RxJava2](https://www.infoq.com/articles/Testing-RxJava2):You’ve read about RxJava; you’ve played with the samples on the internet, for example in RxJava by Example, and now you have made a commitment to explore reactive opportunities in your own code. But now you are wondering how to test out the new capabilities that you might find in your codebase.Reactive programming requires a shift in how to reason about a particular problem, because we need to focus not on individual data items but on data flowing as streams of events. These events are often produced and consumed from different threads, and so when writing tests we must keep aware of concurrency concerns. Fortunately RxJava2 provides built-in support for testing Observables and Disposables, built right into the core rxjava dependency.
 
 ### 1-2 Video
 
