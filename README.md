@@ -671,3 +671,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/Froussios/Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava)
 1. **RxDbflow** RxJava wrapper for dbflow.  
 [https://github.com/roadhouse-dev/RxDbflow](https://github.com/roadhouse-dev/RxDbflow)
+1. **Traceur** Easier RxJava2 debugging with better stacktraces.  
+[https://github.com/T-Spoon/Traceur](https://github.com/T-Spoon/Traceur)
