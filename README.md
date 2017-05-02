@@ -673,3 +673,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/roadhouse-dev/RxDbflow](https://github.com/roadhouse-dev/RxDbflow)
 1. **Traceur** Easier RxJava2 debugging with better stacktraces.  
 [https://github.com/T-Spoon/Traceur](https://github.com/T-Spoon/Traceur)
+1. **RxPicker** The ImageSelect tool based on RxJava.  
+[https://github.com/imuhao/RxPicker](https://github.com/imuhao/RxPicker)
