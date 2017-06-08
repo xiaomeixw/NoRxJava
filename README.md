@@ -677,3 +677,6 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/T-Spoon/Traceur](https://github.com/T-Spoon/Traceur)
 1. **RxPicker** The ImageSelect tool based on RxJava.  
 [https://github.com/imuhao/RxPicker](https://github.com/imuhao/RxPicker)
+1. **RxComponentLifecycle** Rx binding of new Android Architecture Component Lifecycle.  
+[https://github.com/florent37/RxComponentLifecycle](https://github.com/florent37/RxComponentLifecycle)
+
