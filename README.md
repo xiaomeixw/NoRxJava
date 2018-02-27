@@ -685,4 +685,5 @@ What kind of changes does this require? What shifts in thinking? What are the tr
 [https://github.com/imuhao/RxPicker](https://github.com/imuhao/RxPicker)
 1. **RxComponentLifecycle** Rx binding of new Android Architecture Component Lifecycle.  
 [https://github.com/florent37/RxComponentLifecycle](https://github.com/florent37/RxComponentLifecycle)
-
+1. **RxTest** Kotlin DSL for testing RxJava.  
+[https://github.com/RubyLichtenstein/RxTest](https://github.com/RubyLichtenstein/RxTest)
