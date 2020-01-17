@@ -19,6 +19,10 @@ Where to find RxJava:
 - RxJavaString: [https://github.com/ReactiveX/RxJavaString](https://github.com/ReactiveX/RxJavaString)
 - RxJavaFileUtils: [https://github.com/ReactiveX/RxJavaFileUtils](https://github.com/ReactiveX/RxJavaFileUtils)
 - RxJavaMath: [https://github.com/ReactiveX/RxJavaMath](https://github.com/ReactiveX/RxJavaMath)
+- RxCpp: [https://github.com/ReactiveX/RxCpp](https://github.com/ReactiveX/RxCpp)
+- RxPHP: [https://github.com/ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP)
+- RxGo: [https://github.com/ReactiveX/RxGo](https://github.com/ReactiveX/RxGo)
+- RxRuby: [https://github.com/ReactiveX/RxRuby](https://github.com/ReactiveX/RxRuby)
 
 #### Version 2.x
 
